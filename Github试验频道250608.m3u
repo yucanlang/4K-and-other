@@ -25,7 +25,14 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://60.2.190.206:4000/rtp/239.253.93.134:6631
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-
+http://119.251.149.158:4022/rtp/239.253.93.134:6631
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="央视频道",明珠台
+http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="央视频道",三沙卫视
+http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111
+#EXTINF:-1 tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="央视频道",澳亚卫视
+http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
+来自恩山论坛https://www.right.com.cn/forum/thread-8429053-1-1.html
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://122.4.104.104:80/00/SNM/CHANNEL00000359/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
@@ -109,9 +116,6 @@ http://222.68.33.45:9898/udp/239.45.1.42:5140
 http://111.193.231.42:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://111.193.231.42:4022/rtp/239.3.1.249:8001
-
-
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 
 
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -344,7 +348,160 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 
 
 
+澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
+明珠台HD,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
+广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
+魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111
+广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
+广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111
+三沙卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
+广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
+广东民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
+嘉佳卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.144:11111
+中华美食,http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
+广州综合,http://qjrhc.jydjd.top:2911/udp/224.1.100.35:11111
+浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111
+深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111
+广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
+云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.22:11111
+海南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111
+青海卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.127:11111
+吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
+吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.59:11111
+黑龙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
+河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.74:11111
+河北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.19:11111
+贵州卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.58:11111
+甘肃卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.10:11111
+广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.111:11111
+广西卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.110:11111
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
+广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
+广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
 
+69,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111?$1920x1080
+133,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111?$1920x1080
+113,http://qjrhc.jydjd.top:2911/udp/224.1.100.113:11111?$1920x1080
+152,http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111?$1920x1080
+76,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111?$1920x1080
+48,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111?$1920x1080
+56,http://qjrhc.jydjd.top:2911/udp/224.1.100.56:11111?$1920x1080
+102,http://qjrhc.jydjd.top:2911/udp/224.1.100.102:11111?$1920x1080
+72,http://qjrhc.jydjd.top:2911/udp/224.1.100.72:11111?$1920x1080
+109,http://qjrhc.jydjd.top:2911/udp/224.1.100.109:11111?$1920x1080
+145,http://qjrhc.jydjd.top:2911/udp/224.1.100.145:11111?$1920x1080
+105,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111?$1920x1080
+104,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111?$1920x1080
+149,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111?$1920x1080
+139,http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111?$1920x1080
+92,http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111?$1920x1080
+131,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111?$1920x1080
+143,http://qjrhc.jydjd.top:2911/udp/224.1.100.143:11111?$1920x1080
+107,http://qjrhc.jydjd.top:2911/udp/224.1.100.107:11111?$1920x1080
+137,http://qjrhc.jydjd.top:2911/udp/224.1.100.137:11111?$1920x1080
+147,http://qjrhc.jydjd.top:2911/udp/224.1.100.147:11111?$1920x1080
+78,http://qjrhc.jydjd.top:2911/udp/224.1.100.78:11111?$1920x1080
+126,http://qjrhc.jydjd.top:2911/udp/224.1.100.126:11111?$1920x1080
+144,http://qjrhc.jydjd.top:2911/udp/224.1.100.144:11111?$1920x1080
+90,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111?$1920x1080
+100,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111?$1920x1080
+21,http://qjrhc.jydjd.top:2911/udp/224.1.100.21:11111?$1920x1080
+86,http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111?$1920x1080
+66,http://qjrhc.jydjd.top:2911/udp/224.1.100.66:11111?$1920x1080
+68,http://qjrhc.jydjd.top:2911/udp/224.1.100.68:11111?$1920x1080
+46,http://qjrhc.jydjd.top:2911/udp/224.1.100.46:11111?$1920x1080
+136,http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111?$1920x1080
+127,http://qjrhc.jydjd.top:2911/udp/224.1.100.127:11111?$1920x1080
+10,http://qjrhc.jydjd.top:2911/udp/224.1.100.10:11111?$1920x1080
+110,http://qjrhc.jydjd.top:2911/udp/224.1.100.110:11111?$1920x1080
+121,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111?$1920x1080
+84,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111?$1920x1080
+135,http://qjrhc.jydjd.top:2911/udp/224.1.100.135:11111?$1920x1080
+25,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111?$1920x1080
+44,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111?$1920x1080
+80,http://qjrhc.jydjd.top:2911/udp/224.1.100.80:11111?$1920x1080
+98,http://qjrhc.jydjd.top:2911/udp/224.1.100.98:11111?$1920x1080
+62,http://qjrhc.jydjd.top:2911/udp/224.1.100.62:11111?$1920x1080
+74,http://qjrhc.jydjd.top:2911/udp/224.1.100.74:11111?$1920x1080
+38,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111?$1920x1080
+31,http://qjrhc.jydjd.top:2911/udp/224.1.100.31:11111?$1920x1080
+117,http://qjrhc.jydjd.top:2911/udp/224.1.100.117:11111?$1920x1080
+52,http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111?$1920x1080
+64,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111?$1920x1080
+27,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111?$1920x1080
+115,http://qjrhc.jydjd.top:2911/udp/224.1.100.115:11111?$1920x1080
+96,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111?$1920x1080
+42,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111?$1920x1080
+88,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111?$1920x1080
+141,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111?$1920x1080
+129,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111?$1920x1080
+23,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111?$1920x1080
+58,http://qjrhc.jydjd.top:2911/udp/224.1.100.58:11111?$1920x1080
+40,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111?$1920x1080
+19,http://qjrhc.jydjd.top:2911/udp/224.1.100.19:11111?$1920x1080
+123,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111?$1920x1080
+34,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111?$1920x1080
+36,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111?$1920x1080
+94,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111?$1920x1080
+158,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111?$1440x1080
+157,http://qjrhc.jydjd.top:2911/udp/224.1.100.157:11111?$1440x1080
+153,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111?$1440x1080
+156,http://qjrhc.jydjd.top:2911/udp/224.1.100.156:11111?$1440x1080
+12,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111?$1440x1080
+154,http://qjrhc.jydjd.top:2911/udp/224.1.100.154:11111?$1440x1080
+77,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111?$1280x720
+91,http://qjrhc.jydjd.top:2911/udp/224.1.100.91:11111?$1280x720
+32,http://qjrhc.jydjd.top:2911/udp/224.1.100.32:11111?$1280x720
+108,http://qjrhc.jydjd.top:2911/udp/224.1.100.108:11111?$1280x720
+26,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111?$1280x720
+89,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111?$1280x720
+43,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111?$1280x720
+93,http://qjrhc.jydjd.top:2911/udp/224.1.100.93:11111?$1280x720
+55,http://qjrhc.jydjd.top:2911/udp/224.1.100.55:11111?$1280x720
+16,http://qjrhc.jydjd.top:2911/udp/224.1.100.16:11111?$1280x720
+39,http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111?$1280x720
+122,http://qjrhc.jydjd.top:2911/udp/224.1.100.122:11111?$1280x720
+41,http://qjrhc.jydjd.top:2911/udp/224.1.100.41:11111?$1280x720
+111,http://qjrhc.jydjd.top:2911/udp/224.1.100.111:11111?$1280x720
+49,http://qjrhc.jydjd.top:2911/udp/224.1.100.49:11111?$1280x720
+57,http://qjrhc.jydjd.top:2911/udp/224.1.100.57:11111?$1280x720
+116,http://qjrhc.jydjd.top:2911/udp/224.1.100.116:11111?$1280x720
+75,http://qjrhc.jydjd.top:2911/udp/224.1.100.75:11111?$1280x720
+35,http://qjrhc.jydjd.top:2911/udp/224.1.100.35:11111?$1280x720
+103,http://qjrhc.jydjd.top:2911/udp/224.1.100.103:11111?$1280x720
+24,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111?$1280x720
+99,http://qjrhc.jydjd.top:2911/udp/224.1.100.99:11111?$1280x720
+65,http://qjrhc.jydjd.top:2911/udp/224.1.100.65:11111?$1280x720
+71,http://qjrhc.jydjd.top:2911/udp/224.1.100.71:11111?$1280x720
+47,http://qjrhc.jydjd.top:2911/udp/224.1.100.47:11111?$1280x720
+45,http://qjrhc.jydjd.top:2911/udp/224.1.100.45:11111?$1280x720
+30,http://qjrhc.jydjd.top:2911/udp/224.1.100.30:11111?$1280x720
+70,http://qjrhc.jydjd.top:2911/udp/224.1.100.70:11111?$1280x720
+53,http://qjrhc.jydjd.top:2911/udp/224.1.100.53:11111?$1280x720
+106,http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111?$1280x720
+132,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111?$1280x720
+124,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111?$1280x720
+130,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111?$1280x720
+97,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111?$1280x720
+83,http://qjrhc.jydjd.top:2911/udp/224.1.100.83:11111?$1280x720
+63,http://qjrhc.jydjd.top:2911/udp/224.1.100.63:11111?$1280x720
+59,http://qjrhc.jydjd.top:2911/udp/224.1.100.59:11111?$1280x720
+95,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111?$1280x720
+18,http://qjrhc.jydjd.top:2911/udp/224.1.100.18:11111?$1280x720
+79,http://qjrhc.jydjd.top:2911/udp/224.1.100.79:11111?$1280x720
+61,http://qjrhc.jydjd.top:2911/udp/224.1.100.61:11111?$1280x720
+37,http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111?$1280x720
+85,http://qjrhc.jydjd.top:2911/udp/224.1.100.85:11111?$1280x720
+51,http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111?$1280x720
+114,http://qjrhc.jydjd.top:2911/udp/224.1.100.114:11111?$1280x720
+118,http://qjrhc.jydjd.top:2911/udp/224.1.100.118:11111?$1280x720
 
 
 
