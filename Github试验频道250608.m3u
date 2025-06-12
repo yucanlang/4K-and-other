@@ -47,9 +47,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 #EXTINF:-1 group-title="新闻财经频道",
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://60.2.190.206:4000/rtp/239.253.93.134:6631
+http://222.218.215.44:8088/udp/239.81.0.69:4056
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://119.251.149.158:4022/rtp/239.253.93.134:6631
+http://222.218.215.44:8088/udp/239.81.0.69:4056
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="央视频道",明珠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="央视频道",三沙卫视
@@ -57,6 +57,8 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.148:11111
 #EXTINF:-1 tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="央视频道",澳亚卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
 来自恩山论坛https://www.right.com.cn/forum/thread-8429053-1-1.html
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="央视频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://122.4.104.104:80/00/SNM/CHANNEL00000359/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
@@ -101,13 +103,25 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育720P
 http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV-5 体育
-
+http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事
-
+http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="体育频道",纬来体育
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="体育频道",睛彩竞技
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="体育频道",睛彩篮球
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="体育频道",睛彩青少
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+#EXTINF:-1 group-title="体育频道",咪咕24小时体育台（gather）
+https://tv.iill.top/migu/mgty
+#EXTINF:-1 group-title="体育频道",掼蛋精英赛（gather）
+https://tv.iill.top/migu/gdjs
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="体育频道",睛彩竞技
 http://36.27.101.216:4000/udp/233.50.202.26:5140
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="体育频道",睛彩篮球
@@ -116,18 +130,27 @@ http://36.27.101.216:4000/udp/233.50.201.194:5140
 http://36.27.101.216:4000/udp/233.50.201.195:5140
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="体育频道",睛彩青少
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+
 #EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/长影频道.png" group-title="电影频道",长影频道
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/长影频道.png" group-title="电影频道",长影频道
 http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
-http://123.123.167.240:8000/rtp/239.3.1.250:8001
+http://123.118.54.158:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
-http://123.123.167.240:8000/rtp/239.3.1.249:8001
+http://123.118.54.158:8686/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
 https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通4K
 http://222.68.33.45:9898/udp/239.45.1.42:5140
+#EXTINF:-1 group-title="电影频道",新片放映厅720p（gather）
+https://tv.iill.top/migu/xpfy
+#EXTINF:-1 group-title="电影频道",高清大片720p（gather）
+https://tv.iill.top/migu/gqdp
+#EXTINF:-1 group-title="电影频道",Mytime
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影频道",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="NewTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影频道",NewTV超级电影
@@ -136,14 +159,7 @@ http://222.68.33.45:9898/udp/239.45.1.42:5140
 
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="电影频道",4K·UHD「IPV6」
 
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
-http://111.193.231.42:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
-http://111.193.231.42:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="电影频道",Mytime
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 
@@ -152,7 +168,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海SITV频道",欢笑剧场
 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海SITV频道",上海新闻
-
+https://tv.iill.top/migu/shxw
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海SITV频道",上海都市
 
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海SITV频道",上海外语
@@ -162,7 +178,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海SITV频道",五星体育
 
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海SITV频道",东方影视
-
+https://tv.iill.top/migu/shys
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海SITV频道",东方财经
 
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海SITV频道",法治天地
