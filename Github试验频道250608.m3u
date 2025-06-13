@@ -46,6 +46,42 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 
 #EXTINF:-1 group-title="新闻财经频道",
 
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",民视新闻台
+https://live.iill.top/youtube/@FTV_News
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS NEWS
+https://live.iill.top/youtube/m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",寰宇新闻台
+https://live.iill.top/youtube/@globalnewstw
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森财经新闻
+https://live.iill.top/youtube/@57ETFN
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS 新聞台
+https://live.iill.top/youtube/2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://222.218.215.44:8088/udp/239.81.0.69:4056
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
