@@ -46,6 +46,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 
 #EXTINF:-1 group-title="新闻财经频道",
 
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",凤凰资讯
+https://live.iill.top/youtube/@phoenixtvhk
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中天新闻
 https://live.iill.top/youtube/@%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96CtiTv
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中天新闻
@@ -56,17 +58,49 @@ https://live.iill.top/youtube/@FTV_News
 https://live.iill.top/youtube/2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS NEWS
 https://live.iill.top/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",凤凰资讯
-https://live.iill.top/youtube/@phoenixtvhk
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",寰宇新闻台
 https://live.iill.top/youtube/@globalnewstw
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森财经新闻
-https://live.iill.top/youtube/@57ETFN
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森新闻
+https://live.iill.top/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",LIVE三立
 https://live.iill.top/youtube/@setnews
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",三立iNEWS
+https://live.iill.top/youtube/@setinews
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中视新闻台
+https://live.iill.top/youtube/@twctvnews
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",台视新闻台
+https://live.iill.top/youtube/@TTV_NEWS
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",镜新闻
+https://live.iill.top/youtube/@mnews-tw
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森财经新闻
+https://live.iill.top/youtube/@57ETFN
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",华视新闻CH52
+https://live.iill.top/youtube/@CtsTw
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",CTS华视新闻资讯CH52
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",公视
+https://live.iill.top/youtube/@PNNPTS
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",非凡直播LIVE
+https://live.iill.top/youtube/@ustv
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中视HD
+https://live.iill.top/youtube/@ctvent_classic
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",民视新闻
+https://live.iill.top/youtube/ylYJSBUgaMA&pp
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",大爱
+https://live.iill.top/youtube/@DaAiVideo
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS 新聞台
+https://live.iill.top/youtube/TVBSNEWS01
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS NEWS
+https://live.iill.top/youtube/@TVBSNEWS02
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
 
