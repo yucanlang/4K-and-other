@@ -62,6 +62,8 @@ https://live.iill.top/youtube/m_dhMSvUCIc
 https://live.iill.top/youtube/@globalnewstw
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森新闻
 https://live.iill.top/youtube/V1p33hqPrUk
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森LIVE
+https://live.iill.top/youtube/newsebc
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",LIVE三立
 https://live.iill.top/youtube/@setnews
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",三立iNEWS
@@ -88,24 +90,22 @@ https://live.iill.top/youtube/@ctvent_classic
 https://live.iill.top/youtube/ylYJSBUgaMA&pp
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",大爱
 https://live.iill.top/youtube/@DaAiVideo
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",华藏HZTV
+https://live.iill.top/youtube/@hztv2212
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS欢乐台
+https://live.iill.top/youtube/@chopchopshow
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",LiveNOW
+https://live.iill.top/youtube/YDfiTGGPYCk
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",NHK World
+https://live.iill.top/youtube/f0lYkdA-Gtw
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS 新聞台
 https://live.iill.top/youtube/TVBSNEWS01
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS NEWS
 https://live.iill.top/youtube/@TVBSNEWS02
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
-
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",东森LIVE
+https://live.iill.top/youtube/V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
