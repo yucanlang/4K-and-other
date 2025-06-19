@@ -46,8 +46,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 
 #EXTINF:-1 group-title="新闻财经频道",
 
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",CCTV-13 新闻
+http:\\dns.yiandrive.com:13571\douyin\kuaikancctv
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",凤凰资讯
 https://live.iill.top/youtube/@phoenixtvhk
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",CCTV-13 新闻
+http:\\dns.yiandrive.com:13571\bilibili\8178490
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中天新闻
 https://live.iill.top/youtube/@%E4%B8%AD%E5%A4%A9%E9%9B%BB%E8%A6%96CtiTv
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",中天新闻
@@ -102,8 +106,8 @@ https://live.iill.top/youtube/f0lYkdA-Gtw
 https://live.iill.top/youtube/@SkyNews
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",日テレNEWS
 https://live.iill.top/youtube/@ntv_news
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
-
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",8worldSG
+https://live.iill.top/youtube/@8worldSG
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
