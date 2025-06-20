@@ -221,9 +221,9 @@ http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/长影频道.png" group-title="电影频道",长影频道
 http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
-http://123.118.54.158:8686/rtp/239.3.1.250:8001
+http://111.196.131.47:8686/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
-http://123.118.54.158:8686/rtp/239.3.1.249:8001
+http://111.196.131.47:8686/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
 https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通4K
