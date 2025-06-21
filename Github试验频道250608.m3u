@@ -48,6 +48,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",第一财经
 http://dns.yiandrive.com:13571/douyin/103928414151
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",CCTV-4 美洲
+https://live.iill.top/youtube/@LiveNow24H
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",CCTV-13 新闻
 http:\\dns.yiandrive.com:13571\douyin\kuaikancctv
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",凤凰资讯
