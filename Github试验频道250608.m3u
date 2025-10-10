@@ -1,50 +1,83 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经频道",SiTV 第一财经
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="4K新闻财经&央视频道",SiTV 第一财经
 http://36.27.101.216:4000/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经频道",SiTV 第一财经
-http://36.27.101.216:4000/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="新闻财经频道",凤凰中文
-http://36.27.101.216:4000/udp/233.50.200.191:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="新闻财经频道",凤凰资讯
-http://36.27.101.216:4000/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="新闻财经频道",咪咕4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="4K新闻财经&央视频道",北京卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.172:5002
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="4K新闻财经&央视频道",东方卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.184:5002
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="4K新闻财经&央视频道",山东卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.179:5002
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="4K新闻财经&央视频道",浙江卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.182:5002
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="4K新闻财经&央视频道",湖南卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.181:5002
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="4K新闻财经&央视频道",江苏卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.173:5002
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="4K新闻财经&央视频道",广东卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.174:5002
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="4K新闻财经&央视频道",深圳卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.158:5002
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="4K新闻财经&央视频道",深圳卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.174:5002
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="4K新闻财经&央视频道",四川卫视4K
+http://144.255.31.115:6688/rtp/239.21.2.185:5002
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="4K新闻财经&央视频道",凤凰中文
+http://144.255.31.115:6688/rtp/239.21.2.153:5002
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="4K新闻财经&央视频道",凤凰资讯
+http://144.255.31.115:6688/rtp/239.21.2.163:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",凤凰香港
+http://144.255.31.115:6688/rtp/239.21.2.164:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",CNA
+http://144.255.31.115:6688/rtp/239.21.2.165:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",澳门
+http://144.255.31.115:6688/rtp/239.21.2.167:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",FRANCE24
+http://144.255.31.115:6688/rtp/239.21.2.168:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",DW
+http://144.255.31.115:6688/rtp/239.21.2.169:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",NHK WORLD
+http://144.255.31.115:6688/rtp/239.21.2.170:5002
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="4K新闻财经&央视频道",咪咕4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="新闻财经频道",CCTV-13 新闻
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV4K
+http://144.255.31.115:6688/rtp/239.21.2.152:5002
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K新闻财经&央视频道",CCTV16
+http://180.154.61.39:4022/rtp/233.18.204.215:5140
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="新闻财经频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K新闻财经&央视频道",CCTV-1 综合
 http://122.4.104.104:80/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="新闻财经频道",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="4K新闻财经&央视频道",CCTV-2 财经
 http://122.4.104.104:80/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="新闻财经频道",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="4K新闻财经&央视频道",CCTV-4 中文国际
 http://122.4.104.104:80/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="新闻财经频道",CCTV-4 美洲
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="4K新闻财经&央视频道",CCTV-4 美洲
 http://122.4.104.104:80/00/SNM/CHANNEL00000351/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="新闻财经频道",CCTV-4 欧洲
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="4K新闻财经&央视频道",CCTV-4 欧洲
 http://122.4.104.104:80/00/SNM/CHANNEL00000350/index.m3u8
-#EXTINF:-1 group-title="新闻财经频道",CNA
+#EXTINF:-1 group-title="4K新闻财经&央视频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新闻财经频道",BBC720P
+#EXTINF:-1 group-title="4K新闻财经&央视频道",BBC720P
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="新闻财经频道",RT Documentary
+#EXTINF:-1 group-title="4K新闻财经&央视频道",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="新闻财经频道",Taiwan Plus
+#EXTINF:-1 group-title="4K新闻财经&央视频道",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="新闻财经频道",RT News
+#EXTINF:-1 group-title="4K新闻财经&央视频道",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="新闻财经频道",Love Nature 4K
+#EXTINF:-1 group-title="4K新闻财经&央视频道",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="新闻财经频道",CBN News
+#EXTINF:-1 group-title="4K新闻财经&央视频道",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="新闻财经频道",Tastemade
+#EXTINF:-1 group-title="4K新闻财经&央视频道",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="新闻财经频道",
+#EXTINF:-1 group-title="4K新闻财经&央视频道",
 
-#EXTINF:-1 group-title="新闻财经频道",
+#EXTINF:-1 group-title="4K新闻财经&央视频道",
 
-#EXTINF:-1 group-title="新闻财经频道",
+#EXTINF:-1 group-title="4K新闻财经&央视频道",
 
-#EXTINF:-1 group-title="新闻财经频道",
+#EXTINF:-1 group-title="4K新闻财经&央视频道",
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",第一财经
 http://dns.yiandrive.com:13571/douyin/103928414151
@@ -122,6 +155,7 @@ https://live.iill.top/youtube/@8worldSG
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",
+
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS 新聞台
 https://live.iill.top/youtube/TVBSNEWS01
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",TVBS NEWS
