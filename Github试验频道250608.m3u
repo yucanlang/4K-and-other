@@ -60,14 +60,10 @@ http://144.255.31.115:6688/rtp/239.21.2.168:5002
 http://144.255.31.115:6688/rtp/239.21.2.169:5002
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="山东电信4K频道",NHK WORLD
 http://144.255.31.115:6688/rtp/239.21.2.170:5002
-
-
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="山东电信4K频道",CCTV4K
 http://144.255.31.115:6688/rtp/239.21.2.152:5002
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K新闻财经&央视频道",CCTV16 4K-
-http://111.127.156.228:51234/rtp/239.29.1.149:5000
-#EXTINF:-1 tvg-name="咪咕" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="4K新闻财经&央视频道",至臻视界4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+
+
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="4K新闻财经&央视频道",第一财经
@@ -82,7 +78,7 @@ http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=
 http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K财新闻经&央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4K新闻财经&央视频道",CCTV-1 综合
 http://122.4.104.104:80/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="4K新闻财经&央视频道",CCTV-2 财经
 http://122.4.104.104:80/00/SNM/CHANNEL00000317/index.m3u8
