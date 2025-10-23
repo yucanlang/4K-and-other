@@ -11,7 +11,7 @@ http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=
 http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="4K新闻财经&央视频道",深圳卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="4K新闻财经&央视频道",中天新闻RTMP,
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="4K新闻财经&央视频道",中天新闻 RTMP
 rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
@@ -492,11 +492,11 @@ http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影，
-http://123.112.16.172:4022/rtp/239.3.1.249:8001
+http://123.112.16.172:4022/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://123.112.16.172:4022/rtp/239.3.1.249:8001
 http://114.243.110.101:8822/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",爱上4K.华数
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="电影频道",爱上4K.华数
 http://123.112.16.172:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
 https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
