@@ -316,27 +316,27 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="内蒙电信4K频道",CCTV4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.164:5000
+1http://111.127.156.228:51234/rtp/239.29.1.164:5000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="内蒙电信4K频道",CCTV16 4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.149:5000
+1http://111.127.156.228:51234/rtp/239.29.1.149:5000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="内蒙电信4K频道",北京卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.182:5000
+1http://111.127.156.228:51234/rtp/239.29.1.182:5000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="内蒙电信4K频道",东方卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.196:5000
+1http://111.127.156.228:51234/rtp/239.29.1.196:5000
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="内蒙电信4K频道",山东卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.198:5000
+1http://111.127.156.228:51234/rtp/239.29.1.198:5000
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="内蒙电信4K频道",浙江卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.195:5000
+1http://111.127.156.228:51234/rtp/239.29.1.195:5000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="内蒙电信4K频道",湖南卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.193:5000
+1http://111.127.156.228:51234/rtp/239.29.1.193:5000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="内蒙电信4K频道",江苏卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.194:5000
+1http://111.127.156.228:51234/rtp/239.29.1.194:5000
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="内蒙电信4K频道",广东卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.184:5000
+1http://111.127.156.228:51234/rtp/239.29.1.184:5000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="内蒙电信4K频道",深圳卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.185:5000
+1http://111.127.156.228:51234/rtp/239.29.1.185:5000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="内蒙电信4K频道",四川卫视4K（内蒙）
-http://111.127.156.228:51234/rtp/239.29.1.197:5000
+1http://111.127.156.228:51234/rtp/239.29.1.197:5000
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="山东电信4K频道",北京卫视4K.
 http://144.255.31.115:6688/rtp/239.21.2.172:5002
@@ -379,35 +379,35 @@ http://144.255.31.115:6688/rtp/239.21.2.152:5002
 
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="上海电信4K频道",CCTV16 4K.
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.215:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="上海电信4K频道",广东卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.218:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.218:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="上海电信4K频道",深圳卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.219:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.219:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="上海电信4K频道",东方卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.224:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="上海电信4K频道",四川卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.225:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.225:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="上海电信4K频道",江苏卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.226:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.226:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="上海电信4K频道",湖南卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.227:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.227:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="上海电信4K频道",江苏卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.228:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.228:5140
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="上海电信4K频道",山东卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.228:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.228:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="上海电信4K频道",浙江卫视4K..
-http://vpn.rogerxlj.top:9998/rtp/233.18.204.229:5140
+11http://vpn.rogerxlj.top:9998/rtp/233.18.204.229:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海电信4K频道",欢笑剧场4K 25FPS
-http://vpn.rogerxlj.top:9998/rtp/239.45.1.4:5140
+11http://vpn.rogerxlj.top:9998/rtp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="上海电信4K频道",百事通电影4K 25FPS
-http://vpn.rogerxlj.top:9998/rtp/239.45.1.42:5140
+11http://vpn.rogerxlj.top:9998/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="上海电信4K频道",百事通少儿4K 25FPS
-http://vpn.rogerxlj.top:9998/rtp/239.45.1.1:5140
+11http://vpn.rogerxlj.top:9998/rtp/239.45.1.1:5140
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="上海电信4K频道",百事通电影4K 25FPS,
-http://vpn.rogerxlj.top:9998/rtp/239.45.3.107:5140
+11http://vpn.rogerxlj.top:9998/rtp/239.45.3.107:5140
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="上海电信4K频道",百事通纪实4K 25FPS
-http://vpn.rogerxlj.top:9998/rtp/239.45.1.10:5140
+11http://vpn.rogerxlj.top:9998/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="上海电信4K频道",CCTV16 4K..
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="上海电信4K频道",广东卫视4K..
@@ -1034,6 +1034,7 @@ http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contenti
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播 𝟛𝟠「IPV4」
 http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+
 
 
 
