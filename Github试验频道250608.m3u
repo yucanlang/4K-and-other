@@ -118,7 +118,7 @@ http://171.213.133.30:2345/udp/239.94.0.103:5140
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",爱院线
 http://171.213.133.30:2345/udp/239.94.1.132:5140
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",爱科幻
-http://171.213.133.30:2345/udp/239.94.1.132:5140
+http://171.213.133.30:2345/udp/239.94.1.131:5140
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",熊猫影院
 http://171.213.133.30:2345/udp/239.94.1.6:5140
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",华语影院
@@ -797,6 +797,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
