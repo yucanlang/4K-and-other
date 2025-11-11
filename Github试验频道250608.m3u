@@ -105,22 +105,8 @@ http://171.213.133.30:2345/udp/239.94.0.113:5140
 http://171.213.133.30:2345/udp/239.94.0.114:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="四川电信频道",四川卫视4K.
 http://171.213.133.30:2345/udp/239.94.0.115:5140
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="四川电信频道",凤凰中文.
-http://171.213.133.30:2345/udp/239.94.0.20:5140
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="四川电信频道",凤凰资讯.
-http://171.213.133.30:2345/udp/239.94.0.20:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",凤凰香港.
-http://171.213.133.30:2345/udp/239.94.0.20:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",峨眉电影
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",峨眉电影
 http://171.213.133.30:2345/udp/239.94.0.103:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",爱院线
-http://171.213.133.30:2345/udp/239.94.1.132:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",爱科幻
-http://171.213.133.30:2345/udp/239.94.1.131:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",熊猫影院
-http://171.213.133.30:2345/udp/239.94.1.6:5140
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰卫视香港台.png" group-title="四川电信频道",华语影院
-http://171.213.133.30:2345/udp/239.94.1.22:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="四川电信频道",爱上4K·UHD
 http://171.213.133.30:2345/udp/239.94.0.21:5140
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="四川电信频道",4K乐享超清
@@ -133,6 +119,28 @@ http://171.213.133.30:2345/udp/239.94.1.150:5140
 http://171.213.133.30:2345/udp/239.94.1.69:5140
 #EXTINF:-1 tvg-name="4K视界" tvg-logo="https://epg.iill.top/logo/百视通.png" group-title="四川电信频道",欢笑剧场
 http://171.213.133.30:2345/udp/239.94.1.176:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",经典电影
+http://171.213.133.30:2345/udp/239.94.1.21:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",华语影院
+http://171.213.133.30:2345/udp/239.94.1.22:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",星光院线
+http://171.213.133.30:2345/udp/239.94.1.23:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",全球大片
+http://171.213.133.30:2345/udp/239.94.1.24:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",爱院线
+http://171.213.133.30:2345/udp/239.94.1.132:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",爱科幻
+http://171.213.133.30:2345/udp/239.94.1.131:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",爱喜剧
+http://171.213.133.30:2345/udp/239.94.1.129:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",爱悬疑
+http://171.213.133.30:2345/udp/239.94.1.136:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",熊猫影院
+http://171.213.133.30:2345/udp/239.94.1.6:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="四川电信频道",麻辣体育
+http://171.213.133.30:2345/udp/239.94.1.149:5140
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",第一财经
 ，，http://dns.yiandrive.com:13571/douyin/103928414151
@@ -795,6 +803,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
