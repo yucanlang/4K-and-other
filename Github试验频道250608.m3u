@@ -29,6 +29,8 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227453/527738500.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="4K新闻财经&央视频道",四川卫视4Krtsp
 rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="4K新闻财经&央视频道",CCTV-1 综合
@@ -742,6 +744,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
