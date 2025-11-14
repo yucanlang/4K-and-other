@@ -40,8 +40,6 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 
 http://122.4.104.5/00/SNM/CHANNEL00000382/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K RTSP" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K RTSP
-rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="4K新闻财经&央视频道",CCTV-1 综合
@@ -82,6 +80,15 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000346/index.m3u8
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="4K新闻财经&央视频道",CCTV-17 农业农村
 http://122.4.104.104:80/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K RTSP" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K RTSP
+rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 1080P
+http://110.42.63.57:158/live/ysp.php?id=CCTV4K
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.iill.top/logo/CCTV8K.png" group-title="4K新闻财经&央视频道",CCTV-8K 1080P
+http://110.42.63.57:158/live/ysp.php?id=CCTV8K
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上视新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合
+http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxwzh
+以上3个来自https://gitee.com/xu-xingwen/tv/blob/master/dx
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/咪咕视频.png" group-title="4K新闻财经&央视频道",至臻视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K新闻财经&央视频道",欢笑剧场4K
@@ -793,6 +800,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
