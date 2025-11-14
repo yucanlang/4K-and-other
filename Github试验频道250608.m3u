@@ -4,7 +4,14 @@ http://58.32.40.35:6888/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="4K新闻财经&央视频道",第一财经-上海电信720p
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="4K新闻财经&央视频道",凤凰中文
-http://122.4.104.104:80/00/SNM/CHANNEL00000380/index.m3u8
+https://cdn6.101.qzz.io/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="4K新闻财经&央视频道",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="4K新闻财经&央视频道",凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="4K新闻财经&央视频道",香港环球卫视
+rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
+以上凤凰来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="4K新闻财经&央视频道",北京卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="4K新闻财经&央视频道",广东卫视4K
@@ -31,6 +38,10 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227316/527738296.smil
 rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 
+http://122.4.104.5/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K RTSP" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K RTSP
+rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="4K新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="4K新闻财经&央视频道",CCTV-1 综合
@@ -79,6 +90,31 @@ http://www.958598.xyz:4022/rtp/239.45.1.4:5140
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/fanmingming/live/blob/main/tv/苏州4K.png" group-title="4K新闻财经&央视频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="山东移动4K",北京卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="山东移动4K",广东卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="山东移动4K,深圳卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动4K",山东卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="山东移动4K",江苏卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="山东移动4K",东方卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="山东移动4K",浙江卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="山东移动4K",湖南卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="山东移动4K",四川卫视4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动4K",CCTV-4K移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="山东移动4K",劲爆体育移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="四川电信频道",CCTV4K.
@@ -259,6 +295,10 @@ http://36.27.101.216:4000/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="央视频道",CCTV-17农业农村
 http://122.4.104.104:80/00/SNM/CHANNEL00000303/index.m3u8
 以上频道名称缩进一个字符以区分
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K RTSP" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K RTSP
+rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="央视频道",CCTV-4K.
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="央视频道",CCTV-4K..
@@ -467,6 +507,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002030/index.m3u8
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/长影频道.png" group-title="电影频道",长影频道
 http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.iill.top/logo/1905电影网.png" group-title="电影频道",1905电影网
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
@@ -478,12 +520,19 @@ http://123.112.16.172:4022/rtp/239.3.1.249:8001
 http://114.243.110.101:8822/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数
 http://123.112.16.172:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
-https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通4K
 http://www.958598.xyz:4022/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
+https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+以上龙华台来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
 #EXTINF:-1 group-title="电影频道",新片放映厅720p（gather）
 https://tv.iill.top/migu/xpfy
 #EXTINF:-1 group-title="电影频道",高清大片720p（gather）
@@ -744,6 +793,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227430/517077912.smil
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
