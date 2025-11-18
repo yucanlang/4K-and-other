@@ -514,33 +514,32 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★
-http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv16
+http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$4K超高清
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 奥林匹克4K☆
 http://183.234.97.18:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$4K超高清
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",魅力足球★
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",纬来体育1
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",纬来体育备
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fanmingming/live/blob/main/tv/苏州4K.png" group-title="体育频道",斗地主
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",斗地主
 http://cz.crossec.com:35455/douyu/488743
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/睛彩竞技.png" group-title="体育频道",至臻视界
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",至臻视界
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/睛彩竞技.png" group-title="体育频道",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/睛彩竞技.png" group-title="体育频道",睛彩竞技.
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩竞技.
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/睛彩篮球.png" group-title="体育频道",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/睛彩篮球.png" group-title="体育频道",睛彩篮球.
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩篮球.
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.iill.top/logo/睛彩青少.png" group-title="体育频道",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.iill.top/logo/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/咪咕视频.png" group-title="体育频道",咪视界4K
+#EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",咪视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="体育频道",咪咕体育咪视界
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
@@ -566,9 +565,9 @@ http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影，
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影1
 http://123.112.16.172:4022/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清，
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清1
 http://123.112.16.172:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://114.243.110.101:8822/rtp/239.3.1.249:8001
@@ -962,6 +961,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
