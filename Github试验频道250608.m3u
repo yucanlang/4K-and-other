@@ -14,6 +14,8 @@ https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="4K新闻财经&央视频道",香港环球卫视
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
 以上凤凰来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/中天新闻.png"4K新闻财经&央视频道",中天新闻
+https://tzh911.qzz.io/litv.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="4K新闻财经&央视频道",北京卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="4K新闻财经&央视频道",广东卫视4K
@@ -571,13 +573,13 @@ http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影1
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影1
 http://123.112.16.172:4022/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清1
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清1
 http://123.112.16.172:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.iill.top/logo/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://114.243.110.101:8822/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="电影频道",东森洋片
 https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8
@@ -973,6 +975,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
