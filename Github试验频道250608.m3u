@@ -14,9 +14,9 @@ https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="4K新闻财经&央视频道",香港环球卫视
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
 以上凤凰来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/中天新闻.png"4K新闻财经&央视频道",中天新闻
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="4K新闻财经&央视频道",中天新闻4gtv
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv009
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="4K新闻财经&央视频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="4K新闻财经&央视频道",北京卫gtv
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="4K新闻财经&央视频道",广东卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
