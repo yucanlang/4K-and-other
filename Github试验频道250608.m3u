@@ -577,8 +577,10 @@ http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
 以上龙华台来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
-
-
+#EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW爆谷
+http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow02kks.flv
+#EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW星影
+http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkkgjrkltjggrtlmaguidanow01kks.flv
 #EXTINF:-1 group-title="电影频道",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",MovieSphere
@@ -998,6 +1000,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
