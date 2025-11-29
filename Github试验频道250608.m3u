@@ -570,6 +570,9 @@ http://222.186.39.38:8000/028749/index.m3u8
 http://tv.ximix.us/yy/38670875
 #EXTINF:-1 tvg-name="周润发电影" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周润发电影
 http://222.186.39.38:8000/587078/index.m3u8
+#EXTINF:-1 tvg-name="万合天宜" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",万合天宜
+http://live.nctv.top/douyu.php?id=9220456
+来自https://gitee.com/szwxk/watch-television/blob/master/wxk1.m3u
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影hw2837
 http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
@@ -1036,6 +1039,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
