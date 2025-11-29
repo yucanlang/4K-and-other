@@ -85,10 +85,12 @@ http://www.958598.xyz:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="4K新闻财经&央视频道",CCTV-17 农业农村
 http://122.4.104.104:80/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="4K新闻财经&央视频道",CCTV 风云剧场
+https://www.qiushui.vip/gj/mk.php?ip_port=node-111-20-163-124.speedtest.cn:8001&id=live1019
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="4K新闻财经&央视频道",CCTV 第一剧场
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="4K新闻财经&央视频道",CCTV 怀旧剧场
+https://www.qiushui.vip/gj/mk.php?ip_port=node-111-20-163-124.speedtest.cn:8001&id=live1021
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUAIJIUJC-CQ/G_HUAIJIUJC-CQ.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="4K新闻财经&央视频道",CCTV-4K 1080P
 http://110.42.63.57:158/live/ysp.php?id=CCTV4K
@@ -125,6 +127,22 @@ http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/
 http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="山东移动",中天新闻 许幸文移动
+http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://epg.iill.top/logo/美亚电影.png" group-title="山东移动",美亚电影 许幸文移动
+美亚电影台,http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="PopC电影台" tvg-logo="https://epg.iill.top/logo/popc.png" group-title="山东移动",PopC电影台 许幸文移动
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="山东移动",凤凰中文 许幸文移动
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="山东移动",凤凰资讯 许幸文移动
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="山东移动",凤凰香港 许幸文移动
+http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="山东移动",上海东方财经移动
 http://39.134.144.6:8089/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="山东移动",北京卫视4K移动
@@ -153,42 +171,44 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="山东移动",CCTV1移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动",CCTV2移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="山东移动",CCTV2移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动",CCTV3移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="山东移动",CCTV3移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动",CCTV4移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东移动",CCTV4移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.iill.top/logo/CCTV4欧洲.png" group-title="山东移动",CCTV4欧洲移动
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="山东移动",CCTV4欧洲移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.iill.top/logo/CCTV4美洲.png" group-title="山东移动",CCTV4美洲移动
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="山东移动",CCTV4美洲移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="山东移动",CCTV5移动
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="山东移动",CCTV5移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="山东移动",CCTV5+移动
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="山东移动",CCTV5+移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="山东移动",CCTV6移动
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="山东移动",CCTV6移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="山东移动",CCTV7移动
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="山东移动",CCTV7移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="山东移动",CCTV8移动
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="山东移动",CCTV8移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="山东移动",CCTV9移动
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="山东移动",CCTV9移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="山东移动",CCTV10移动
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="山东移动",CCTV10移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="山东移动",CCTV11移动
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="山东移动",CCTV11移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="山东移动",CCTV12移动
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="山东移动",CCTV12移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="山东移动",CCTV13移动
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="山东移动",CCTV13移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="山东移动",CCTV14移动
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="山东移动",CCTV14移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="山东移动",CCTV15移动
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="山东移动",CCTV15移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="山东移动",CCTV17移动
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="山东移动",CCTV17移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="中央新影中学生" tvg-logo="https://epg.112114.xyz/logo/中央新影中学生.png" group-title="山东移动",中央新影中学生
+http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.iill.top/logo/CETV1.png" group-title="山东移动",CETV1移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="山东移动",三沙卫视移动
@@ -544,6 +564,12 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
+http://222.186.39.38:8000/028749/index.m3u8
+#EXTINF:-1 tvg-name="周星驰电影2" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影2
+http://tv.ximix.us/yy/38670875
+#EXTINF:-1 tvg-name="周润发电影" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周润发电影
+http://222.186.39.38:8000/587078/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影hw2837
 http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
@@ -1010,6 +1036,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
