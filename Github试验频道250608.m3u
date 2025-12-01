@@ -102,9 +102,9 @@ http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxwzh
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合（gitee/hw2837iptv）
 http://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",纯享4K·UHD
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1 tvg-name="美食美味" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",美食美味
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-17/GITV-JS-17.m3u8
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",至臻视界4K
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K新闻财经&央视频道",欢笑剧场4K
@@ -120,11 +120,11 @@ http://xxwx.yoesun.com/xxw/cwjd.php
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",斗地主
 http://cz.crossec.com:35455/douyu/488743
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",精品记录hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="4K新闻财经&央视频道",北京新闻hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="4K新闻财经&央视频道",北京财经hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
 
 
 
@@ -597,26 +597,27 @@ http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://123.112.16.172:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://epg.112114.xyz/logo/淘剧场.png" group-title="电影频道",北京IPTV淘剧场hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" tvg-logo="https://epg.112114.xyz/logo/淘娱乐.png" group-title="电影频道",北京IPTV淘娱乐hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="电影频道",黑莓电影hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
 #EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="超级电影" tvg-logo="https://epg.112114.xyz/logo/超级电影.png" group-title="电影频道",NewTV超级电影hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="动作电影" tvg-logo="https://epg.112114.xyz/logo/动作电影.png" group-title="电影频道",NewTV动作电影hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="电影频道",东森洋片
 https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="电影频道",纯享4K·UHD「IPV6」hw2837
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1 tvg-id="高分电影" tvg-name="高分电影" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",高分电影
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-14/GITV-JS-14.m3u8
 #EXTINF:-1 tvg-id="影视剧场" tvg-name="影视剧场" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",影视剧场
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
 #EXTINF:-1 tvg-id="第一院线" tvg-name="第一院线" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",第一院线
+http://115.223.9.56:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数
 http://123.112.16.172:4022/rtp/239.3.1.236:2000
@@ -1058,6 +1059,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
