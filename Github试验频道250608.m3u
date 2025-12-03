@@ -600,7 +600,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影
+http://123.112.16.172:4022/rtp/239.3.1.250:8001
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
+http://123.112.16.172:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
 http://222.186.39.38:8000/028749/index.m3u8
 #EXTINF:-1 tvg-name="周星驰电影2" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影2
@@ -611,9 +614,7 @@ http://222.186.39.38:8000/587078/index.m3u8
 http://live.nctv.top/douyu.php?id=9220456
 来自https://gitee.com/szwxk/watch-television/blob/master/wxk1.m3u
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",北京IPTV淘电影hw2837
-http://101.73.66.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
-http://123.112.16.172:4022/rtp/239.3.1.249:8001
+http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清hw2837
 http://115.223.9.56:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://epg.112114.xyz/logo/淘剧场.png" group-title="电影频道",北京IPTV淘剧场hw2837
@@ -647,24 +648,24 @@ https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="电影频道",龙华经典
 http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华偶像
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.iill.top/logo/龙华偶像.png" group-title="电影频道",龙华偶像
 http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华日韩
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.iill.top/logo/龙华日韩.png" group-title="电影频道",龙华日韩
 http://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华戏剧
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.iill.top/logo/龙华戏剧.png" group-title="电影频道",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
 以上龙华台来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
 #EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW爆谷
 http://bxtv.3a.ink/api.php?id=baogu
 #EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW星影
 http://bxtv.3a.ink/api.php?id=xingying
-#EXTINF:-1 group-title="电影频道",Mytime
+#EXTINF:-1 tvg-name="Mytime" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",MovieSphere
+#EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/长影频道.png" group-title="电影频道",长影频道
+#EXTINF:-1 tvg-id="长影频道" tvg-name="长影频道" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",长影频道
 http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="电影频道",新片放映厅720p（gather）
 
@@ -1077,6 +1078,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
