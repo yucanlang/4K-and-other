@@ -158,7 +158,12 @@ http://bxtv.3a.ink/api.php?id=qxjd
 http://bxtv.3a.ink/api.php?id=fct
 
 
-
+#EXTINF:-1 tvg-name="热血剧场" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="山东移动",热血剧场移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
+#EXTINF:-1 tvg-name="电影大片" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="山东移动",电影大片移动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="山东移动",重温经典移动
+http://39.134.144.6:8089/PLTV/88888888/224/3221226745/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="山东移动",上海东方财经移动
 http://39.134.144.6:8089/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="山东移动",北京卫视4K移动
@@ -515,6 +520,8 @@ http://148.135.93.213/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 http://58.32.40.35:6888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",五星体育-上海移动公网V6
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225732/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",劲爆体育移动★
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",劲爆体育-
 http://qgtf.jydjd.top:2903/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育
@@ -523,14 +530,20 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★
-http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$4K超高清
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育频道",CCTV5移动★
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育频道",CCTV5+移动★
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★公网1080P
+http://219.144.190.2:9901/tsfile/live/1040_1.m3u8
+CCTV16公网可播1080p来自https://gitee.com/sd-live/zb/blob/master/mySD
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 1080p（gitee/hw2837iptv）上海移动V6.
 http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226120/index.m3u8?icpid=11&RTS=1762072229&from=24&hms_devid=544,550&online=1762070453&vqe=3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 4k hw2837雅安电信
 http://zqh2333.top:2222/rtp/239.93.55.54:5140
 http://183.234.97.18:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",魅力足球★
+http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8$4K超高清
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",魅力足球★dx
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",纬来体育1
 rtmp://f13h.mine.nu/sat/tv721
@@ -1075,6 +1088,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
