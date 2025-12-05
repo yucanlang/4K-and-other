@@ -96,9 +96,7 @@ http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
 http://110.42.63.57:158/live/ysp.php?id=CCTV4K
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.iill.top/logo/CCTV8K.png" group-title="4K新闻财经&央视频道",CCTV-8K 1080P
 http://110.42.63.57:158/live/ysp.php?id=CCTV8K
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合
-http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxwzh
-以上3个来自https://gitee.com/xu-xingwen/tv/blob/master/dx
+以上2个来自https://gitee.com/xu-xingwen/tv/blob/master/dx
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合（gitee/hw2837iptv）
 http://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",纯享4K·UHD
@@ -126,8 +124,6 @@ http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/322122697
 http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="4K新闻财经&央视频道",北京财经hw2837
 http://183.61.225.53:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
-
-
 
 
 
@@ -247,6 +243,8 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="山东移动",三沙卫视移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="山东移动",三沙卫视1080P-hw2837
+http://qgtf.jydjd.top:2903/udp/224.1.100.148:11111
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动",湖南茶频道移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="山东移动",湖南金鹰纪实移动
@@ -501,6 +499,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000078/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000668/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="卫视频道",大亚湾卫视
 http://122.4.104.104:80/00/SNM/CHANNEL00000670/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="卫视频道",三沙卫视1080P-hw2837，
+http://qgtf.jydjd.top:2903/udp/224.1.100.148:11111
 
 
 
@@ -1075,6 +1075,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
