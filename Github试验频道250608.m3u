@@ -573,8 +573,10 @@ http://113.201.1.163:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-1/GITV-JS
 #EXTINF:-1 tvg-id="第一院线" tvg-name="第一院线" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",第一院线
 http://113.201.1.163:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
 http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-JS-2.m3u8
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数
 http://123.112.16.172:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="华数" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",华数
+http://111.193.225.6:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通4K
 http://www.958598.xyz:4022/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
@@ -618,8 +620,12 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000018926/1.m3u8
 http://58.32.40.35:6888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",新纪实
-
+#EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",新纪实「Gather」
+http://cn.yycx.eu.org:12838/sh/xjs
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",魔都眼「Gather」
+http://cn.yycx.eu.org:12838/sh/mdy
+#EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",爱上海「Gather」
+http://cn.yycx.eu.org:12838/sh/ash
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
 
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="上海频道",SITV动漫秀场「鲁电」
@@ -1110,6 +1116,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
