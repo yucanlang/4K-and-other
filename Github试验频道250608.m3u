@@ -16,7 +16,7 @@ https://migu.188766.xyz/?migutoken=a2a24b12749ae3b8a40a18f266824344&id=%E6%B9%96
 http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="BXTV",翡翠台4K「kimwang1978」
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="4K频道",翡翠台4K「kimwang1978」
 https://mgev.188766.xyz/?migutoken=b63e030151570005233f252b4fb0025e&id=hk_fct4k&type=dy
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
 http://www.958598.xyz:4022/rtp/239.45.1.4:5140
@@ -1140,6 +1140,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
