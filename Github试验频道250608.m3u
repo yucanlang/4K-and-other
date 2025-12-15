@@ -12,7 +12,7 @@ https://migu.188766.xyz/?migutoken=53ed7de44926de4c4bc1676a81830eba&id=dfws&type
 https://migu.188766.xyz/?migutoken=e5718e3fb53435cc73fe90260672a53d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="4K频道",湖南卫视4K「kimwang1978」
 https://migu.188766.xyz/?migutoken=a2a24b12749ae3b8a40a18f266824344&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="卫视频道",山东卫视4K rtsp
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="4K频道",山东卫视4K rtsp
 rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="4K频道",江苏卫视4K rtsp
 rtsp://150.138.8.132/PLTV/88888888/224/3221227446/527738562.smil
@@ -166,17 +166,12 @@ http://1.49.253.140:8881/rtp/238.255.3.60:5999
 ☆☆☆上述CCTV来自https://gitee.com/szwxk/watch-television/blob/master/wxk1.m3u
 #EXTINF:-1 tvg-name="中央新影中学生" tvg-logo="https://epg.112114.xyz/logo/中央新影中学生.png" group-title="4K新闻财经&央视频道",中央新影中学生
 http://150.138.8.143/00/SNM/CHANNEL00000673/index.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合（gitee/hw2837iptv）
-http://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合
+http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+（gitee/hw2837iptv）http://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="4K新闻财经&央视频道",上海新闻综合V6（gitee/hw2837iptv）
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031110/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="4K新闻财经&央视频道",1905电影网
-http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",重温经典频道
-http://xxwx.yoesun.com/xxw/cwjd.php
-#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K新闻财经&央视频道",斗地主
-http://cz.crossec.com:35455/douyu/488743
 
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="4K新闻财经&央视频道",北京新闻「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -604,6 +599,8 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影频道",1905电影网
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="电影频道",重温经典频道☆
+http://xxwx.yoesun.com/xxw/cwjd.php
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV6-移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
@@ -622,8 +619,6 @@ http://jiugong.wulinsy.cn:39901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&au
 http://jiugong.wulinsy.cn:39901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="https://epg.112114.xyz/logo/动作影院.png" group-title="电影频道",动作影院「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://epg.112114.xyz/logo/IPTV4K.png" group-title="电影频道",北京IPTV4K超清
 http://123.112.16.172:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
@@ -1223,6 +1218,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
