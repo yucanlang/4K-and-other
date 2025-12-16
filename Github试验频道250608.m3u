@@ -181,9 +181,9 @@ http://jiugong.wulinsy.cn:39901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&au
 http://jiugong.wulinsy.cn:39901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://epg.112114.xyz/logo/北京纪实科教.png" group-title="4K新闻财经&央视频道",北京纪实科教「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="4K新闻财经&央视频道",北京新闻「BRTV」
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="4K新闻财经&央视频道",北京新闻「WXK/ff」
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="4K新闻财经&央视频道",北京体育休闲「BRTV」
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.112114.xyz/logo/北京体育.png" group-title="4K新闻财经&央视频道",北京体育休闲「WXK/ff」
 http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 
 
@@ -1218,6 +1218,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
