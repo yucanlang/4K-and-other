@@ -169,7 +169,6 @@ http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 （gitee/hw2837iptv）http://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="4K新闻财经&央视频道",北京新闻「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="4K新闻财经&央视频道",北京生活「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="4K新闻财经&央视频道",北京财经「Hotel」
@@ -1219,6 +1218,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
