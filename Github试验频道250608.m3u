@@ -669,6 +669,8 @@ http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://epg.112114.xyz/logo/淘Baby.png" group-title="电影频道",淘Baby「zxmlxw520」
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="电影频道",安徽影视「WXK」
+http://bit.famcloud.top:9878/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
 http://222.186.39.38:8000/028749/index.m3u8
 #EXTINF:-1 tvg-name="周星驰电影2" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影2
@@ -1290,6 +1292,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
