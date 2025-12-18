@@ -783,12 +783,6 @@ http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 http://58.32.40.35:6888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",新纪实「kimwang1978」
-https://migu.188766.xyz/?migutoken=baf7835f88ace5e54eb7d28e782182e1&id=jsrw&type=sz
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",魔都眼「kimwang1978」
-https://migu.188766.xyz/?migutoken=c0110ea4d3ec8e70011ee23201b8f08a&id=mdy&type=sz
-#EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",爱上海「kimwang1978」
-https://migu.188766.xyz/?migutoken=3e23d933eaec1f23638ee1c096d5d96a&id=ash&type=sz
 #EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",新纪实「Gather」
 http://cn.yycx.eu.org:12838/sh/xjs
 #EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",魔都眼「Gather」
