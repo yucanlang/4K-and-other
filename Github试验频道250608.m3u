@@ -197,7 +197,7 @@ http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/浙江国际.png" group-title="新闻财经&央视频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江科教" tvg-logo="https://epg.112114.xyz/logo/浙江科教.png" group-title="新闻财经&央视频道",浙江科教
+#EXTINF:-1 tvg-name="浙江科教" tvg-logo="https://epg.112114.xyz/logo/浙江科教影视.png" group-title="新闻财经&央视频道",浙江科教
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://epg.112114.xyz/logo/浙江民生.png" group-title="新闻财经&央视频道",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -568,8 +568,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 http://j1900.silicaite.top:58888/rtp/239.49.8.31:8000
 http://219.144.190.2:9901/tsfile/live/1040_1.m3u8
 CCTV16公网可播1080p来自https://gitee.com/sd-live/zb/blob/master/mySD
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 1080p（gitee/hw2837iptv）上海移动V6.
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023253/1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 1080p（gitee/hw2837iptv）
+https://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
+上海移动V6.http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023253/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 4k hw2837雅安电信
 http://zqh2333.top:2222/rtp/239.93.55.54:5140
 #EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",Trace Sport Stars
@@ -670,7 +671,7 @@ http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://epg.112114.xyz/logo/淘Baby.png" group-title="电影频道",淘Baby「zxmlxw520」
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="电影频道",安徽影视「WXK」
-http://bit.famcloud.top:9878/rtp/239.3.1.250:8001
+https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
 http://222.186.39.38:8000/028749/index.m3u8
 #EXTINF:-1 tvg-name="周星驰电影2" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影2
@@ -1292,6 +1293,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
