@@ -80,13 +80,15 @@ https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",香港环球卫视
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
 以上凤凰来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="新闻财经&央视频道",求索纪录
+http://122.4.104.104:80/00/SNM/CHANNEL00000667/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="新闻财经&央视频道",CCTV-4K 
 http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="新闻财经&央视频道",CCTV-1 综合
 http://122.4.104.104:80/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="新闻财经&央视频道",CCTV-2 财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="新闻财经&央视频道",CCTV-2 财经
 http://122.4.104.104:80/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="新闻财经&央视频道",CCTV-3 综艺
 http://122.4.104.104:80/00/SNM/CHANNEL00000359/index.m3u8
@@ -127,9 +129,9 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 https://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16 奥林匹克4K
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="新闻财经&央视频道",CCTV-17 农业农村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/logo/CCTV17.png" group-title="新闻财经&央视频道",CCTV-17 农业农村
 http://122.4.104.104:80/00/SNM/CHANNEL00000303/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="新闻财经&央视频道",CCTV-1「RTHK33」
+#EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png" group-title="新闻财经&央视频道",RTHK33「CCTV-1」
 https://cdn6.101.qzz.io/163189/cctv1#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16「wxk」
 http://1.49.253.140:8881/rtp/238.255.3.110:5999
@@ -272,7 +274,7 @@ http://bxtv.3a.ink/api.php?id=fct
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
 #EXTINF:-1 tvg-name="电影大片" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="山东移动",电影大片移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="山东移动",重温经典移动
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典影视.png" group-title="山东移动",重温经典影视移动
 http://39.134.144.6:8089/PLTV/88888888/224/3221226745/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="山东移动",上海东方财经移动
 http://39.134.144.6:8089/PLTV/88888888/224/3221226446/index.m3u8
@@ -302,11 +304,11 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="山东移动",CCTV1移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="山东移动",CCTV2移动
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" group-title="山东移动",CCTV2移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="山东移动",CCTV3移动
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/cctv3.png" group-title="山东移动",CCTV3移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="山东移动",CCTV4移动
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/cctv4.png" group-title="山东移动",CCTV4移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV4欧洲.png" group-title="山东移动",CCTV4欧洲移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
@@ -366,7 +368,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.iill.top/logo/快乐垂钓.png" group-title="山东移动",湖南快乐垂钓移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://epg.iill.top/logo/梨园.png" group-title="山东移动",河南梨园频道移动
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="山东移动",河南梨园频道移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://epg.iill.top/logo/武术世界.png" group-title="山东移动",河南武术世界移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
@@ -416,7 +418,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东综艺移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://epg.iill.top/logo/山东教育.png" group-title="山东移动",山东教育移动
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://logo.catvod.com/山东教育.png" group-title="山东移动",山东教育移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
 
 
@@ -520,7 +522,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000045/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000071/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.iill.top/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://122.4.104.104:80/00/SNM/CHANNEL00000043/index.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.i112114.xyz/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://122.4.104.104:80/00/SNM/CHANNEL00000040/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.iill.top/logo/山西卫视.png" group-title="卫视频道",山西卫视
 http://122.4.104.104:80/00/SNM/CHANNEL00000032/index.m3u8
@@ -640,7 +642,7 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影频道",1905电影网
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="电影频道",重温经典频道☆
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/重温经典.png" group-title="电影频道",重温经典
 http://xxwx.yoesun.com/xxw/cwjd.php
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV6-移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
@@ -668,8 +670,8 @@ http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://epg.112114.xyz/logo/淘娱乐.png" group-title="电影频道",淘娱乐「zxmlxw520」
 http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://epg.112114.xyz/logo/淘Baby.png" group-title="电影频道",淘Baby「zxmlxw520」
-http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://epg.112114.xyz/logo/淘BABY.png" group-title="电影频道",淘BABY「zxmlxw520」
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="电影频道",安徽影视「WXK」
 https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
@@ -783,11 +785,11 @@ http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
 http://58.32.40.35:6888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",新纪实「Gather」
+#EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="上海频道",新纪实「Gather」
 http://cn.yycx.eu.org:12838/sh/xjs
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",魔都眼「Gather」
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" group-title="上海频道",魔都眼「Gather」
 http://cn.yycx.eu.org:12838/sh/mdy
-#EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="上海频道",爱上海「Gather」
+#EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="上海频道",爱上海「Gather」
 http://cn.yycx.eu.org:12838/sh/ash
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" group-title="上海频道",七彩戏剧
 
@@ -813,9 +815,9 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/1.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="上海频道",SITV东方财经「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.iill.top/logo/新视觉.png" group-title="上海频道",SITV新视觉
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",SITV新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.iill.top/logo/新视觉.png" group-title="上海频道",SITV新视觉.hw2837
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",SITV新视觉.hw2837
 http://qgtf.jydjd.top:2903/udp/224.1.100.136:11111
 新视觉来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u  & hw2837
 
@@ -908,15 +910,15 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 南国都市来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="数字频道",广州南国都市4K
 http://218.18.239.209:8888/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.iill.top/logo/重温经典.png" group-title="数字频道",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="数字频道",重温经典影视
 http://122.4.104.6:80/2/00/0/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="数字频道",纪实人文
 http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxjs
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/全纪实.png" group-title="数字频道",上海新纪实
 http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxjs
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.iill.top/logo/北京纪实科教.png" group-title="数字频道",纪实科教8K
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/北京纪实科教8K.png" group-title="数字频道",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.iill.top/logo/北京纪实科教.png" group-title="数字频道",纪实科教
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.iill.top/logo/纪实科教.png" group-title="数字频道",纪实科教
 http://122.4.104.104:80/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="数字频道",劲爆体育
 http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
@@ -928,9 +930,9 @@ http://www.958598.xyz:4022/rtp/239.45.1.4:5140
 http://122.4.104.104:80/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="数字频道",金色学堂
 http://122.4.104.104:80/00/SNM/CHANNEL00002018/index.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.iill.top/logo/新视觉.png" group-title="数字频道",新视觉
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="数字频道",新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.iill.top/logo/新视觉.png" group-title="数字频道",新视觉.hw2837
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="数字频道",新视觉.hw2837
 http://qgtf.jydjd.top:2903/udp/224.1.100.136:11111
 新视觉来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u  & hw2837
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="数字频道",魅力足球
@@ -939,14 +941,12 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.iill.top/logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://122.4.104.104:80/00/SNM/CHANNEL00000648/index.m3u8
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://epg.iill.top/logo/茶.png" group-title="数字频道",茶友频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.iill.top/logo/茶频道.png" group-title="数字频道",茶频道
 http://122.4.104.104:80/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.iill.top/logo/游戏风云.png" group-title="数字频道",游戏风云
 http://122.4.104.104:80/00/SNM/CHANNEL00002024/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="数字频道",动漫秀场
 http://122.4.104.104:80/00/SNM/CHANNEL00002000/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/哒啵赛事.png" group-title="数字频道",象视界
-http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=xsj
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/哒啵赛事.png" group-title="数字频道",哒啵赛事
 
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/哒啵电竞.png" group-title="数字频道",哒啵电竞
@@ -975,8 +975,6 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000657/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000658/index.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://upload.112114.xyz/logo/JINGCAIYINGSHI.png" group-title="数字频道",精彩影视
 http://122.4.104.104:80/00/SNM/CHANNEL00002012/index.m3u8
-#EXTINF:-1 tvg-id="精彩中原" tvg-name="精彩中原" tvg-logo="https://upload.112114.xyz/logo/JINGCAIYINGSHI.png" group-title="数字频道",精彩中原
-http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jczy
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="数字频道",生活时尚
 http://122.4.104.104:80/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.iill.top/logo/中国交通.png" group-title="数字频道",中国交通
@@ -987,19 +985,19 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000711/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000650/index.m3u8
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.iill.top/logo/四海钓鱼.png" group-title="数字频道",四海钓鱼
 http://122.4.104.104:80/00/SNM/CHANNEL00000640/index.m3u8
-#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.iill.top/logo/中华特产.png" group-title="数字频道",中华特产
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://epg.112114.xyz/logo/中华特产.png" group-title="数字频道",中华特产
 http://122.4.104.104:80/00/SNM/CHANNEL00000642/index.m3u8
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.iill.top/logo/环球旅游.png" group-title="数字频道",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://epg.112114.xyz/logo/环球旅游.png" group-title="数字频道",环球旅游
 http://122.4.104.104:80/00/SNM/CHANNEL00000643/index.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://upload.112114.xyz/logo/dfcj.png" group-title="数字频道",东方财经
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-id="书画" tvg-name="书画"tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="数字频道",书画频道
 http://122.4.104.104:80/00/SNM/CHANNEL00000651/index.m3u8
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://epg.iill.top/logo/生态环境.png" group-title="数字频道",生态环境
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://epg.112114.xyz/logo/生态环境.png" group-title="数字频道",生态环境
 http://122.4.104.104:80/00/SNM/CHANNEL00000671/index.m3u8
-#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.iill.top/logo/家庭理财.png" group-title="数字频道",家庭理财
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="数字频道",家庭理财
 http://122.4.104.104:80/00/SNM/CHANNEL00000654/index.m3u8
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.iill.top/logo/财富天下.png" group-title="数字频道",财富天下
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="数字频道",财富天下
 http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
 #EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="https://upload.112114.xyz/logo/cm.png" group-title="数字频道",车迷频道
 http://122.4.104.104:80/00/SNM/CHANNEL00000645/index.m3u8
@@ -1287,6 +1285,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
