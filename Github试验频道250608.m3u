@@ -129,7 +129,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 https://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16 奥林匹克4K
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/logo/CCTV17.png" group-title="新闻财经&央视频道",CCTV-17 农业农村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="新闻财经&央视频道",CCTV-17 农业农村
 http://122.4.104.104:80/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png" group-title="新闻财经&央视频道",RTHK33「CCTV-1」
 https://cdn6.101.qzz.io/163189/cctv1#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -224,7 +224,9 @@ http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="绍兴文化影院" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="新闻财经&央视频道",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广州新闻.png"group-title="数字频道",广州新闻「1」
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广州新闻.png"group-title="数字频道",广州新闻「2」
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州新闻来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u
 
 
@@ -410,19 +412,19 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.iill.top/logo/山东齐鲁.png" group-title="山东移动",山东齐鲁移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东体育移动
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东体育.png" group-title="山东移动",山东体育移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东新闻移动
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://epg.iill.top/logo/山东新闻.png" group-title="山东移动",山东新闻移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东农科移动
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="山东移动",山东农科移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东少儿移动
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.iill.top/logo/山东少儿.png" group-title="山东移动",山东少儿移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东文旅移动
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://epg.iill.top/logo/山东文旅.png" group-title="山东移动",山东文旅移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东生活移动
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://epg.iill.top/logo/山东生活.png" group-title="山东移动",山东生活移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="山东移动",山东综艺移动
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.iill.top/logo/山东综艺.png" group-title="山东移动",山东综艺移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://logo.catvod.com/山东教育.png" group-title="山东移动",山东教育移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
@@ -1004,6 +1006,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000645/index.m3u8
 #EXTINF:-1 tvg-name="山东海洋" tvg-logo="https://upload.112114.xyz/logo/haiyangpindao.png" group-title="数字频道",海洋频道
 http://122.4.104.104:80/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://epg.112114.xyz/logo/国学频道.png" group-title="数字频道",国学频道
+rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/睛彩竞技.png" group-title="数字频道",睛彩竞技
 
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/睛彩篮球.png" group-title="数字频道",睛彩篮球
@@ -1286,6 +1290,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
