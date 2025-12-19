@@ -223,6 +223,22 @@ https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b47
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="绍兴文化影院" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="新闻财经&央视频道",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="新闻财经&央视频道",广东体育
+https://www.wmviv.com/iptv/bc2t.php?id=gdty
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="新闻财经&央视频道",广东新闻
+https://www.wmviv.com/iptv/bc2t.php?id=gdxw
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="新闻财经&央视频道",广东珠江
+https://www.wmviv.com/iptv/bc2t.php?id=gdzj
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://epg.iill.top/logo/广东民生.png" group-title="新闻财经&央视频道",广东民生
+https://www.wmviv.com/iptv/bc2t.php?id=gdms
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="新闻财经&央视频道",广东影视
+https://www.wmviv.com/iptv/bc2t.php?id=gdys
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://epg.iill.top/logo/广东移动.png" group-title="新闻财经&央视频道",广东移动
+https://www.wmviv.com/iptv/bc2t.php?id=gdyd
+#EXTINF:-1 tvg-name="广东现代教育" tvg-logo="https://epg.iill.top/logo/广东现代教育.png" group-title="新闻财经&央视频道",广东现代教育
+https://www.wmviv.com/iptv/bc2t.php?id=gdxw
+#EXTINF:-1 tvg-name="广东生活频道" tvg-logo="https://epg.iill.top/logo/广东移动.png" group-title="新闻财经&央视频道",广东生活频道
+https://www.wmviv.com/iptv/bc2t.php?id=gdxw
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png"group-title="新闻财经&央视频道",广州新闻「1」
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州新闻来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数★字频道.m3u
@@ -568,14 +584,16 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.139:11111
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="体育频道",广东体育
+https://www.wmviv.com/iptv/bc2t.php?id=gdty
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育频道",CCTV5移动★
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育频道",CCTV5+移动★
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★公网1080P
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★1080P
 http://j1900.silicaite.top:58888/rtp/239.49.8.31:8000
 http://219.144.190.2:9901/tsfile/live/1040_1.m3u8
-CCTV16公网可播1080p来自https://gitee.com/sd-live/zb/blob/master/mySD
+CCTV161080p来自https://gitee.com/sd-live/zb/blob/master/mySD
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 1080p（gitee/hw2837iptv）
 https://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
 上海移动V6.http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023253/1.m3u8
@@ -1280,6 +1298,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
