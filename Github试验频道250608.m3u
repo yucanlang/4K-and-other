@@ -176,7 +176,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL10000313/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000339/index.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="新闻财经&央视频道",山东少儿
 http://122.4.104.104:80/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://lepg.112114.xyz/logo/山东文旅.png" group-title="新闻财经&央视频道",山东文旅
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://epg.112114.xyz/logo/山东文旅.png" group-title="新闻财经&央视频道",山东文旅
 http://122.4.104.104:80/00/SNM/CHANNEL00000337/index.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="新闻财经&央视频道",山东综艺
 http://122.4.104.104:80/00/SNM/CHANNEL00000338/index.m3u8
@@ -1404,6 +1404,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
