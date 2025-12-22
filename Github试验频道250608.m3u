@@ -663,6 +663,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000315/index.m3u8
 https://www.wmviv.com/iptv/bc2t.php?id=gdty
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://epg.112114.xyz/logo/江苏体育.png" group-title="体育频道",江苏体育「WXKff」
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="体育频道",天津体育「WXKff」
+http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育频道",CCTV5移动★
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育频道",CCTV5+移动★
@@ -1391,6 +1393,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
