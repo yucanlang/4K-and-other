@@ -24,6 +24,10 @@ http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
 http://www.958598.xyz:4022/rtp/239.45.1.4:5140
+#EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://epg.112114.xyz/logo/BesTV4K.png" group-title="4K频道",BesTV4K纪录
+http://www.958598.xyz:4022/rtp/239.45.1.10:5140
+#EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影
+http://www.958598.xyz:4022/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="4K频道",翡翠台-4K 
 https://www.wmviv.com/iptv/bc2t.php?id=fct4k
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="4K频道",河北4K
@@ -150,8 +154,10 @@ http://www.958598.xyz:4022/rtp/239.45.0.48:5140
 http://www.958598.xyz:4022/rtp/239.45.0.47:5140
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理.png" group-title="新闻财经&央视频道",CCTV世界地理
 http://www.958598.xyz:4022/rtp/239.45.0.46:5140
-#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://epg.112114.xyz/logo/CCTV卫生健康.png" group-title="新闻财经&央视频道",CCTV卫生健康足球
-http://www.958598.xyz:4022/rtp/239.45.1.75:5140
+#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://epg.112114.xyz/logo/CCTV卫生健康.png" group-title="新闻财经&央视频道",CCTV卫生健康
+http://www.958598.xyz:4022/rtp/239.45.1.28:5140
+健康养生
+http://www.958598.xyz:4022/rtp/239.45.1.75:5140足球
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://epg.112114.xyz/logo/CCTV央视台球.png" group-title="新闻财经&央视频道",CCTV央视台球
 http://www.958598.xyz:4022/rtp/239.45.0.44:5140
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="新闻财经&央视频道",央视文化精品
@@ -769,6 +775,14 @@ http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
 http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="电影频道",安徽影视「WXK」
 https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
+#EXTINF:-1 tvg-name="古装电影" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",古装电影「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="古装武侠" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",古装武侠「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="古装动作" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",古装动作「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="古装喜剧" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",古装喜剧「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",经典香港电影「hw2837」
 https://www.wmviv.com/iptv/bc2t.php?id=jdxgdy
 #EXTINF:-1 tvg-name="周星驰电影1" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",周星驰电影1
@@ -871,27 +885,27 @@ http://120.240.164.51:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-2/GITV-J
 #EXTINF:-1 group-title="电影频道",高清大片720p（gather）
 
 
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/1.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031110/1.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000017540/1.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000032212/1.m3u8
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000018926/1.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「958598」
+http://www.958598.xyz:4022/rtp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「958598」
+http://www.958598.xyz:4022/rtp/239.45.3.209:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「958598」
+http://www.958598.xyz:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「958598」
+http://www.958598.xyz:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「958598」
+http://www.958598.xyz:4022/rtp/239.45.3.236:5140
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",魔都眼「V4」
+http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「V4」
 http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「V4」
 http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「V4」
 http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",魔都眼「V4」
-http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「V4」
 http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-☆上五个来自https://gitee.com/szwxk/watch-television/blob/master/wxk.m3u
+★★★上五个来自https://gitee.com/szwxk/watch-television/blob/master/wxk.m3u
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="上海频道",上海外语
 http://58.32.40.35:6888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
@@ -920,15 +934,15 @@ http://www.958598.xyz:4022/rtp/239.45.1.4:5140
 http://www.958598.xyz:4022/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="上海频道",SITV生活时尚「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002019/index.m3u8
-#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="上海频道",SITV乐游「IPV6」
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="上海频道",SITV乐游「鲁电」
+http://122.4.104.104:80/00/SNM/CHANNEL00002016/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.iill.top/logo/都市剧场.png" group-title="上海频道",SITV都市剧场「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002022/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="上海频道",SITV东方财经「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",SITV新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",SITV新视觉.hw2837
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="上海频道",SITV新视觉「hw2837」
 http://qgtf.jydjd.top:2903/udp/224.1.100.136:11111
 新视觉来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u  & hw2837
 
@@ -1393,6 +1407,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
