@@ -63,7 +63,7 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经「720P」
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
-http://www.958598.xyz:4022/rtp/233.18.204.57:5140
+http://www.958598.xyz:4022/rtp/233.18.204.59:5140
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/1.m3u8「沪移动V6」
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="新闻财经&央视频道",财富天下「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
@@ -1447,6 +1447,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
