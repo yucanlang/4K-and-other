@@ -65,12 +65,10 @@ https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
 http://www.958598.xyz:4022/rtp/233.18.204.59:5140
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/1.m3u8「沪移动V6」
-#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="新闻财经&央视频道",财富天下「鲁电」
-http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="新闻财经&央视频道",财富天下「」
+
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",SITV东方财经「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
-#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS 新聞台
-http://hls-pull-wicketpw.speedws.com/live/AocNA7nvWaoTEOU1kWJnR67lprDBtzj0CHqgjYOaOYV5JSmoP2.flv?%E7%BE%8E%E5%9B%BD%E4%B8%89%E6%9C%8D
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文
 https://cdn6.101.qzz.io/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯
@@ -164,7 +162,7 @@ http://www.958598.xyz:4022/rtp/233.18.204.177:5140
 http://www.958598.xyz:4022/rtp/239.45.0.53:5140
 ☆☆☆上述CCTV来自https://gitee.com/szwxk/watch-television/blob/master/wxk1.m3u（http://1.409.253.140:8881/rtp/238.255.3.231:5999）后变更958598
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://epg.112114.xyz/logo/山东新闻.png" group-title="新闻财经&央视频道",山东新闻
-http://122.4.104.104:80/00/SNM/CHANNEL00000314/index.m3u8
+http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="新闻财经&央视频道",山东齐鲁
 http://122.4.104.104:80/00/SNM/CHANNEL10000313/index.m3u8
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://epg.112114.xyz/logo/山东农科.png" group-title="新闻财经&央视频道",山东农科
@@ -1447,6 +1445,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
