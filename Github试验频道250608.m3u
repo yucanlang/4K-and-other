@@ -687,8 +687,14 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="体育频道",NOW体育「WXK」
 http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-name="NOW体育651" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="体育频道",NOW体育651「hw2837」
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+#EXTINF:-1 tvg-name="NOW体育652" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="体育频道",NOW体育652「hw2837」
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://epg.112114.xyz/logo/澳门体育.png" group-title="体育频道",澳门体育「WXK」
 http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="红牛" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="体育频道",红牛「hw2837」
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="体育频道",CCTV5移动★
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="体育频道",CCTV5+移动★
@@ -719,14 +725,14 @@ rtmp://f13h.mine.nu:1935/sat/tv721
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 #EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",至臻视界4k
 
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩竞技「WXK」
-http://36.20.107.16:8888/rtp/233.50.202.26:5140
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩篮球「WXK」
-http://36.20.107.16:8888/rtp/233.50.202.27:5140
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩青少「WXK」
-http://36.20.107.16:8888/rtp/233.50.202.28:5140
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩广场舞「WXK」
-http://36.20.107.16:8888/rtp/233.50.202.29:5140
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩竞技「hw2837/gd」
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1&$8M FHD
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩篮球「hw2837/gd」
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1&$8M FHD
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩青少「hw2837/gd」
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1&$8M FHD
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",睛彩广场舞「hw2837/gd」
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1&$8M FHD
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",咪视界4K-Gather
 
 #EXTINF:-1 group-title="体育频道",咪咕体育咪视界
@@ -1445,6 +1451,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
