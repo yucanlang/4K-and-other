@@ -22,12 +22,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil
 http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
 http://www.958598.xyz:4022/rtp/233.18.204.215:5140
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
-http://www.958598.xyz:4022/rtp/233.18.204.115:5140
-#EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://epg.112114.xyz/logo/BesTV4K.png" group-title="4K频道",BesTV4K纪录
-http://www.958598.xyz:4022/rtp/233.18.204.170:5140
-#EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影
-http://www.958598.xyz:4022/rtp/233.18.204.169:5140
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="4K频道",翡翠台-4K 
 https://www.wmviv.com/iptv/bc2t.php?id=fct4k
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="4K频道",河北4K
@@ -58,6 +53,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 ★★★http://113.201.1.163:2380/js-live-screenshot.gitv.tv/gitv_live/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K频道",至臻视界4K
 ★★★http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://epg.112114.xyz/logo/BesTV4K.png" group-title="4K频道",BesTV4K纪录
+#EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经「720P」
@@ -770,12 +768,25 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002028/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00002029/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://122.4.104.104:80/00/SNM/CHANNEL00002030/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院-移动
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.iill.top/logo/CHC影迷电影.png" group-title="电影频道",CHC影迷电影-移动
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.iill.top/logo/CHC动作电影.png" group-title="电影频道",CHC动作电影-移动
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
+http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-id="中国电影频道" tvg-name="中国电影频道" tvg-logo="https://upload.112114.xyz/logo/中国电影频道台标.png" group-title="电影频道",中国电影频道
+http://194.147.100.173/jsy/p.php/?id=fekD9TWd1qrQHIzd0_1Stg
+#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影频道",1905电影网
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/重温经典.png" group-title="电影频道",重温经典
+http://xxwx.yoesun.com/xxw/cwjd.php
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",HBO「xu-xingwen」
+http://183.246.184.172:819/stream/channelid/522857771?profile=pass
+#EXTINF:-1 tvg-name="卫视国际电影台" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",卫视国际电影台「xu-xingwen」
+http://183.246.184.172:819/stream/channelid/883601108?profile=pass
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://upload.112114.xyz/logo/美亚电影台.png" group-title="电影频道",ELTA影剧「xu-xingwen」
+http://194.147.100.173/jsy/p.php/?id=bvmPY8iGvH7nN326yP1GGw
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="电影频道",天映频道「xu-xingwen」
+http://194.147.100.173/jsy/p.php/?id=SRloJmAa6UTIanRhA4o05Q
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="电影频道",TVB 黄金华剧台「xu-xingwen」
+http://194.147.100.173/jsy/p.php/?id=747eu3dZRhfYr9jvN13Tnw
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="电影频道",天映频道hw2837
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="电影频道",天映频道
@@ -786,16 +797,11 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://upload.112114.xyz/logo/美亚电影台.png" group-title="电影频道",美亚电影「2」
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影频道",1905电影网
-http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/重温经典.png" group-title="电影频道",HOY剧集「WXK」
 http://cdn.163189.xyz/163189/hoyjj
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/重温经典.png" group-title="电影频道",重温经典
-http://xxwx.yoesun.com/xxw/cwjd.php
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV6-移动
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
-http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
+
+
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="电影频道",淘电影「Hotel」
 http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="电影频道",北京影视「Hotel」
@@ -1572,6 +1578,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
