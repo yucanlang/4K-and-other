@@ -880,8 +880,10 @@ http://123.112.16.172:4022/rtp/239.3.1.236:2000
 http://111.193.225.6:4022/rtp/239.3.1.92:4120
 #EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通4K
 http://www.958598.xyz:4022/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="华数4K 影视" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
+#EXTINF:-1 tvg-id="摩登如来神掌" tvg-name="摩登如来神掌" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
 https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
+#EXTINF:-1 tvg-id="龙门飞甲" tvg-name="龙门飞甲" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="电影频道",龙华经典
@@ -894,7 +896,7 @@ http://cdn8.163189.xyz/163189/lhrh
 http://cdn8.163189.xyz/163189/lhxj
 以上龙华台来自https://gitee.com/xu-xingwen/tv/blob/master/sdtv
 #EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW爆谷
-http://bxtv.3a.ink/api.php?id=baogu
+http://74.91.26.218:82/live/nowbg.m3u8
 #EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",NOW星影
 http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="Mytime" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",Mytime
@@ -1538,6 +1540,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
