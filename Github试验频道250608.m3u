@@ -268,6 +268,7 @@ http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true
 http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS新闻台
 http://nmk.ioapk.com:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
+P2p://starvod.xyz:19806/e6bda4686d054c1fb74790ede8664105.ts
 #EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="新闻财经&央视频道",Now新闻台
 http://cdn.163189.xyz/163189/now#http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://epg.112114.xyz/logo/Now直播台.png" group-title="新闻财经&央视频道",now直播台
@@ -920,6 +921,7 @@ P2p://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",BOO,
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOW爆谷.png" group-title="电影频道",tvN Movies HD,
+
 以上P2p来自gitee/hw2837
 
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="电影频道",黑莓电影
@@ -1481,6 +1483,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
