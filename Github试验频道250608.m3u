@@ -802,6 +802,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 tvg-name="影剧" tvg-logo="https://epg.112114.xyz/logo/靖天电影.png" group-title="电影频道",影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 上七个台湾频道来自gitee wxk
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",峨眉电影
+http://sc.sohu.blog/sxg/67.m3u8
+#EXTINF:-1 tvg-name="峨眉电影4K" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",峨眉电影4K
+http://sc.sohu.blog/sxg/254.m3u8
+#EXTINF:-1 tvg-name="乐天电影" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",乐天电影
+http://fr.sohu.blog/hls/24.m3u8
 #EXTINF:-1 tvg-id="摩登如来神掌" tvg-name="摩登如来神掌" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",摩登如来神掌
 https://tyyszywvod5.com/videos/202412/28/677005e48fd1573caec9a42c/17c7a0/index.m3u8
 #EXTINF:-1 tvg-id="龙门飞甲" tvg-name="龙门飞甲" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",龙门飞甲
@@ -1470,6 +1476,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
