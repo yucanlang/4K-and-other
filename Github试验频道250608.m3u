@@ -592,6 +592,8 @@ https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",斗地主
+https://live.iill.top/douyu/488743
+https://live.iill.top/bilibili/22021983
 http://cz.crossec.com:35455/douyu/488743
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
 https://cdn3.163189.xyz/163189/wxty
@@ -1468,6 +1470,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
