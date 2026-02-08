@@ -6,6 +6,10 @@ http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=
 http://150.138.8.132/PLTV/88888888/224/3221227437/521682524.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="4K频道",深圳卫视4K
 http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="4K频道",浙江卫视4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="4K频道",山东卫视4K rtsp
 rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="4K频道",江苏卫视4K rtsp
@@ -703,10 +707,6 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002029/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",NOW爆谷
-http://74.91.26.218:82/live/nowbg.m3u8
-#EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",NOW星影
-http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",龙祥时代「APTV扫源」
 http://171.38.107.33:8282/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="华数电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",华数电影「APTV扫源」
@@ -839,6 +839,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 tvg-name="影剧" tvg-logo="https://logo.catvod.com/靖天电影.png" group-title="电影频道",影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 上七个台湾频道来自gitee wxk
+#EXTINF:-1 tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",NOW爆谷
+http://74.91.26.218:82/live/nowbg.m3u8
+#EXTINF:-1 tvg-id="NOW星影" tvg-name="NOW星影" tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",NOW星影
+http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",峨眉电影
 http://sc.sohu.blog/sxg/67.m3u8
 #EXTINF:-1 tvg-name="峨眉电影4K" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",峨眉电影4K
@@ -1499,6 +1503,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
