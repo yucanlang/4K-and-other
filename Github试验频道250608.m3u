@@ -311,7 +311,7 @@ http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="https://logo.catvod.com/澳门MACAU.png" group-title="新闻财经&央视频道",澳门MACAU「WXK」
 http://cdn6.163189.xyz/163189/as
 
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="新闻财经&央视频道",TVBS新闻「风云」
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS新闻「风云」
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="TVBS精彩" tvg-logo="https://epg.iill.top/logo/TVBS精彩.png" group-title="新闻财经&央视频道",TVBS精彩
 http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -1541,6 +1541,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
