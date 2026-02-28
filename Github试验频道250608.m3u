@@ -43,7 +43,6 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
-http://218.78.179.62:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
@@ -147,7 +146,23 @@ http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://logo.catvod.com/央视文化精品.png" group-title="新闻财经&央视频道",央视文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 ☆☆☆上述CCTV来自https://gitee.com/szwxk/watch-television/blob/master/wxk1.m3u
-
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="新闻财经&央视频道",广西新闻「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="新闻财经&央视频道",广西都市「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="新闻财经&央视频道",三沙卫视1080P「WXK」
+http://j1900.silicaite.top:58888/rtp/239.49.0.167:8000
+https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="新闻财经&央视频道",海峡卫视「WXK」
+http://r.jdshipin.com/WtYt3
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="新闻财经&央视频道",大湾区卫视「APTV扫源 」
+http://171.38.107.33:8282/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://logo.catvod.com/山东新闻.png" group-title="新闻财经&央视频道",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="新闻财经&央视频道",山东齐鲁
@@ -297,11 +312,6 @@ http://hls.168.us.kg/u/333/master.m3u8
 http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="https://logo.catvod.com/澳门MACAU.png" group-title="新闻财经&央视频道",澳门MACAU「WXK」
 http://cdn6.163189.xyz/163189/as
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="新闻财经&央视频道",三沙卫视1080P「WXK」
-http://j1900.silicaite.top:58888/rtp/239.49.0.167:8000
-https://srs.ssws.tv/video/sstv-10/index.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="新闻财经&央视频道",海峡卫视「WXK」
-http://r.jdshipin.com/WtYt3
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS新闻「风云」
 http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -326,16 +336,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=49
 
 
 
-☆☆☆#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「APTV扫源」
-☆☆☆http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-☆☆☆#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「APTV扫源」
-☆☆☆http://171.38.107.33:8282/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-☆☆☆#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「APTV扫源」
-☆☆☆http://171.38.107.33:8282/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
-☆☆☆#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="新闻财经&央视频道",广西新闻「APTV扫源」
-☆☆☆http://171.38.107.33:8282/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-☆☆☆#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="新闻财经&央视频道",广西都市「APTV扫源」
-☆☆☆http://171.38.107.33:8282/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 ☆☆☆#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="新闻财经&央视频道",广东体育
 ☆☆☆https://www.wmviv.com/iptv/bc2t.php?id=gdty
 ☆☆☆#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="新闻财经&央视频道",广东新闻
@@ -644,7 +645,7 @@ http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="卫视频道",海峡卫视720p「ffmking」
 https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视「APTV扫源」
-http://171.38.107.33:8282/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://171.38.107.33:8282/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -676,6 +677,7 @@ https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东体育.png" group-title="体育频道",山东体育
 http://122.4.104.104:80/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="体育频道",广东体育「WXK」
+http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="体育频道",江苏体育「WXKff」
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
@@ -743,6 +745,8 @@ https://live.264788.xyz/channel/heimeidonghua?stream_id=bbf7470de1188ce074c45bda
 http://171.38.107.33:8282/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="华数电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",华数动画电影「APTV扫源」
 http://171.38.107.33:8282/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="电影频道",广东影视「APTV扫源」
+http://171.38.107.33:8282/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",广西影视「APTV扫源」
 http://171.38.107.33:8282/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://logo.catvod.com/1905.png" group-title="电影频道",1905电影网
@@ -801,8 +805,6 @@ http://quan2018.mycloudnas.com:9000/udp/239.3.1.100:8001
 http://quan2018.mycloudnas.com:9000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="电影频道",东方影视「WXK」
 http://119.91.196.208:23000/migu/migu20251205.php?id=617290047
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="电影频道",广东影视
-http://171.38.107.33:8282/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://logo.catvod.com/江苏影视.png" group-title="电影频道",江苏影视「WXKff」
 http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://epg.iill.top/logo/天津影视.png" group-title="电影频道",天津影视「WXK」
@@ -1537,6 +1539,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
