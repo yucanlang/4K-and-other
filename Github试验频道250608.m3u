@@ -61,8 +61,8 @@ http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000667/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.iill.top/logo/CCTV4K.png" group-title="新闻财经&央视频道",CCTV-4K 
 http://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.iill.top/logo/CCTV8K.png" group-title="新闻财经&央视频道",CCTV-8K 
-
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.iill.top/logo/CCTV8K.png" group-title="新闻财经&央视频道",CCTV-8K「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="新闻财经&央视频道",CCTV-13 新闻
 http://122.4.104.104:80/00/SNM/CHANNEL00000345/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="新闻财经&央视频道",CCTV-1 综合
@@ -284,17 +284,21 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="新闻财经&央视频道",江苏体育
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://logo.catvod.com/河南新闻.png" group-title="新闻财经&央视频道",河南新闻
-http://xxwx.yoesun.com/xxw/河南网.php?id=hnxw#http://1.94.31.214/php/hntv.php?id=hnxw
+http://1.94.31.214/php/hntv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://logo.catvod.com/河南都市.png" group-title="新闻财经&央视频道",河南都市
-http://xxwx.yoesun.com/xxw/河南网.php?id=hnds
+http://1.94.31.214/php/hntv.php?id=hnds
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://logo.catvod.com/河南民生.png" group-title="新闻财经&央视频道",河南民生
 http://1.94.31.214/php/hntv.php?id=hnms
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="https://logo.catvod.com/河南公共.png" group-title="新闻财经&央视频道",河南公共
 http://1.94.31.214/php/hntv.php?id=hngg
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://logo.catvod.com/河南法治.png" group-title="新闻财经&央视频道",河南法治
+http://1.94.31.214/php/hntv.php?id=hnfz
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://logo.catvod.com/河南乡村.png" group-title="新闻财经&央视频道",河南乡村
+http://1.94.31.214/php/hntv.php?id=hnxc
 #EXTINF:-1 tvg-name="象视界" tvg-logo="https://logo.catvod.com/象视界.png" group-title="新闻财经&央视频道",河南象视界
-http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
-#EXTINF:-1 tvg-name="河南曲艺" tvg-logo="https://logo.catvod.com/精彩中原.png" group-title="新闻财经&央视频道",河南曲艺
-http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
+http://1.94.31.214/php/hntv.php?id=xsj
+#EXTINF:-1 tvg-name="睛彩中原" tvg-logo="https://logo.catvod.com/精彩中原.png" group-title="新闻财经&央视频道",河南睛彩中原
+http://1.94.31.214/php/hntv.php?id=jczy
 #EXTINF:-1 tvg-name="欧洲华文电视台" tvg-logo="https://logo.catvod.com/欧洲华文.png" group-title="新闻财经&央视频道",欧洲华文电视台
 http://oh.eztv.vip/live/eztv1.m3u8
 江苏频道河南频道欧洲华文来自gitee「wxk」ff
@@ -681,13 +685,14 @@ http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="体育频道",江苏体育「WXKff」
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://logo.catvod.com/天津体育.png" group-title="体育频道",天津体育「WXKff」
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://logo.catvod.com/天津体育.png" group-title="体育频道",天津体育「WXK」
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://logo.catvod.com/Now新闻台.png" group-title="体育频道",NOW体育「WXK」
+#EXTINF:-1 tvg-name="NOW体育" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",NOW体育「WXK」
 http://hls.168.us.kg/u/630/master.m3u8
-#EXTINF:-1 tvg-name="NOW体育651" tvg-logo="https://logo.catvod.com/Now新闻台.png" group-title="体育频道",NOW体育651「hw2837」
+#EXTINF:-1 tvg-name="NOW体育651" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",NOW体育651「hw2837」
 https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
-#EXTINF:-1 tvg-name="NOW体育652" tvg-logo="https://logo.catvod.com/Now新闻台.png" group-title="体育频道",NOW体育652「hw2837」
+#EXTINF:-1 tvg-name="NOW体育652" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",NOW体育652「hw2837」
 https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://logo.catvod.com/澳门体育.png" group-title="体育频道",澳门体育「WXK」
 http://cdn6.163189.xyz/163189/amty
@@ -711,14 +716,44 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",纬来体育2
 rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",纬来体育备
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Now Sports 精選" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 精選「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 1" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 1「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 2" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 2「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 3" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 3「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 4" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 4「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 6" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 6「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 7" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 7「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 641" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 641「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超1台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超1台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超2台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超2台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超3台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超3台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超4台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超4台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超5台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超5台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超6台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超6台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports 英超7台" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",Now Sports 英超2台「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",beIN SPORTS 2「TG」
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+
 #EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",至臻视界4k
-
-
-
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",咪视界4K-Gather
-
 #EXTINF:-1 group-title="体育频道",咪咕体育咪视界
 
 
@@ -1539,6 +1574,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
