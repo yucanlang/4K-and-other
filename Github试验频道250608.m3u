@@ -111,10 +111,8 @@ http://36.20.107.16:8888/rtp/233.50.200.112:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16 奥林匹克「WXKff」
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16「gitee/hw2837iptv」
-https://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16 奥林匹克4K
-
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="新闻财经&央视频道",CCTV16 奥林匹克4K「hw2837」
+https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://logo.catvod.com/RTHK33.png" group-title="新闻财经&央视频道",RTHK33「CCTV-1」
 
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV风云剧场.png" group-title="新闻财经&央视频道",CCTV 风云剧场
@@ -259,13 +257,25 @@ http://171.38.107.33:8282/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 http://171.38.107.33:8282/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://epg.iill.top/logo/广东经济科教.png" group-title="新闻财经&央视频道",广东经济科教
 http://171.38.107.33:8282/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东现代教育" tvg-logo="https://epg.iill.top/logo/广东现代教育.png" group-title="新闻财经&央视频道",广东现代教育hw2837
+http://tvtj1.jxwltx.com:8003/live3087.m3u8
 #EXTINF:-1 tvg-name="广东公共" tvg-logo="https://epg.iill.top/logo/广东公共.png" group-title="新闻财经&央视频道",广东公共
 
-☆☆☆广东频道来自gitee「wxk」+APTV扫源
+⬆☆☆☆广东频道来自gitee「wxk」+APTV扫源
+
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png"group-title="新闻财经&央视频道",广州新闻
 https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="新闻财经&央视频道",广州综合
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png"group-title="新闻财经&央视频道",广州法治
+https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png"group-title="新闻财经&央视频道",广州影视
+https://tencentplaybusiness.gztv.com/live/yingshi.m3u8
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="新闻财经&央视频道",南国都市
+https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+
+⬆★★★广州频道来自gitee「hw2837」
+
 #EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="新闻财经&央视频道",南京新闻
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="新闻财经&央视频道",江苏新闻
@@ -352,8 +362,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=49
 ☆☆☆http://171.38.107.33:8282/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 ☆☆☆#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://epg.iill.top/logo/广东移动.png" group-title="新闻财经&央视频道",广东移动
 ☆☆☆https://www.wmviv.com/iptv/bc2t.php?id=gdyd
-☆☆☆#EXTINF:-1 tvg-name="广东现代教育" tvg-logo="https://epg.iill.top/logo/广东现代教育.png" group-title="新闻财经&央视频道",广东现代教育
-☆☆☆https://www.wmviv.com/iptv/bc2t.php?id=xdjy
+
 ☆☆☆#EXTINF:-1 tvg-name="广东生活频道" tvg-logo="https://epg.iill.top/logo/广东移动.png" group-title="新闻财经&央视频道",广东生活频道
 ☆☆☆https://www.wmviv.com/iptv/bc2t.php?id=gdsh
 ☆☆☆#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://logo.catvod.com/南国都市.png" group-title="新闻财经&央视频道",南国都市
@@ -660,14 +669,15 @@ http://cz.crossec.com:35455/douyu/488743
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育
-
+http://115.190.252.60:20508/sports.php?id=jbty
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",CCTV-5 体育☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 「WXK」
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV高尔夫网球.png" group-title="新体育频道",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV高尔夫网球.png" group-title="体育频道",CCTV高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://logo.catvod.com/CCTV央视台球.png" group-title="体育频道",CCTV央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -688,6 +698,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="体育频道",广东体育「WXK」
 http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="体育频道",广东体育「hw2837」
+http://115.190.252.60:20508/sports.php?id=gdty#http://tvtj1.jxwltx.com:8003/live2915.m3u8#http://cdn.163189.xyz/163189/gdty
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="体育频道",江苏体育「WXKff」
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://logo.catvod.com/天津体育.png" group-title="体育频道",天津体育「WXK」
@@ -1106,97 +1118,19 @@ http://qgtf.jydjd.top:2903/udp/224.1.100.136:11111
 
 
 
-#EXTINF:-1 group-title="（YueChan）港台",凤凰中文（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="（YueChan）港台",凤凰资讯（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="（YueChan）港台",凤凰香港（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="（YueChan）港台",澳门莲花（YueChan）
-http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",天映频道（YueChan）
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="（YueChan）港台",龙华电影（YueChan）
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",Pearl（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="4" group-title="（YueChan）港台",翡翠台（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="（YueChan）港台",TVB J1（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="（YueChan）港台",TVB J2（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="（YueChan）港台",无线新闻（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="（YueChan）港台",娱乐新闻（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="（YueChan）港台",VIUTV（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="（YueChan）港台",美亚电影（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="（YueChan）港台",翡翠华丽（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="（YueChan）港台",美亚电影（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="（YueChan）港台",千禧经典（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="（YueChan）港台",重温经典（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="（YueChan）港台",澳视澳门（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="（YueChan）港台",澳门Macau（YueChan）
-http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="（YueChan）港台",astro Aec（YueChan）
-http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="（YueChan）港台",astro Aod（YueChan）
-http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="（YueChan）港台",astro欢喜台（YueChan）
-http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="（YueChan）港台",astro全家（YueChan）
-http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="（YueChan）港台",亚洲武侠（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="（YueChan）港台",龙华经典（YueChan）
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",龙华卡通（YueChan）
-https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",龙华偶像（YueChan）
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",龙华日韩（YueChan）
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",龙华戏剧（YueChan）
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",龙华洋片（YueChan）
-https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",TVB星河（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="（YueChan）港台",TVB武侠（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="（YueChan）港台",爱奇艺（YueChan）
-http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="（YueChan）港台",美亚C+（YueChan）
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="（YueChan）港台",HOY TV（YueChan）
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="（YueChan）港台",RTHK31（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="（YueChan）港台",RTHK32（YueChan）
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-
-
 南国都市来自轩辕数字频道https://tv.hacks.tools/tv/ipv4/categories/数字频道.m3u
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="数字频道",广州南国都市4K
-http://218.18.239.209:8888/udp/239.253.43.99:5146
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="数字频道",广州南国都市
+https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="数字频道",重温经典影视
 http://122.4.104.6:80/2/00/0/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="数字频道",上海新纪实
-http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=shxjs
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://logo.catvod.com/北京纪实科教8K.png" group-title="数字频道",纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://logo.catvod.com/北京纪实科教8K.png" group-title="数字频道",北京纪实科教8K
+
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.iill.top/logo/纪实科教.png" group-title="数字频道",纪实科教
 http://122.4.104.104:80/00/SNM/CHANNEL00000332/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="数字频道",劲爆体育
-http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="数字频道",乐游频道
 http://122.4.104.104:80/00/SNM/CHANNEL00002016/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="数字频道",欢笑剧场
@@ -1583,6 +1517,7 @@ https://m.iill.top/youtube/V1p33hqPrUk
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
