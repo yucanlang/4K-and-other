@@ -715,7 +715,7 @@ https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="体育频道",睛彩广场舞「」
 
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://logo.catvod.com/北京体育.png" group-title="体育频道",北京体育休闲「」
-
+http://115.171.216.84:4000/rtp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东体育.png" group-title="体育频道",山东体育
 http://122.4.104.104:80/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="体育频道",广东体育「WXK」
@@ -1357,6 +1357,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
