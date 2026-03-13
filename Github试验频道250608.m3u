@@ -34,6 +34,9 @@ https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd
 https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV16 奥林匹克4K
 http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
+http://183.132.77.23:4022/udp/233.50.201.63:5140
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K频道",至臻视界4k
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://logo.catvod.com/BesTV4K.png" group-title="4K频道",BesTV4K纪录
 
 #EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影
@@ -42,6 +45,8 @@ http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
+http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://36.24.65.177:8888/udp/233.50.200.125:5140
 http://124.77.177.88:5555/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
@@ -178,7 +183,8 @@ https://srs.ssws.tv/video/sstv-10/index.m3u8
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="新闻财经&央视频道",大湾区卫视「APTV扫源 」
 http://171.38.107.33:8282/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="新闻财经&央视频道",东南卫视
+http://122.4.104.104:80/00/SNM/CHANNEL00000310/index.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://logo.catvod.com/山东新闻.png" group-title="新闻财经&央视频道",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://logo.catvod.com/山东齐鲁.png" group-title="新闻财经&央视频道",山东齐鲁
@@ -195,8 +201,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000338/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://upload.112114.xyz/logo/sdjy.png" group-title="新闻财经&央视频道",山东教育
 http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
-
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="新闻财经&央视频道",上海新闻综合「WXK」
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="新闻财经&央视频道",上海新闻综合「」
+http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://124.77.177.88:5555/rtp/233.18.204.57:5140
 http://218.78.179.62:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="新闻财经&央视频道",新纪实「WXK」
@@ -495,6 +501,7 @@ https://live.iill.top/douyu/488743
 https://live.iill.top/bilibili/22021983
 http://cz.crossec.com:35455/douyu/488743
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
+http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育
 http://115.190.252.60:20508/sports.php?id=jbty
@@ -527,14 +534,17 @@ http://tonyk.56301232.xyz:3477/rtp/239.37.0.80:5540
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 4K「hw」
 https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="体育频道",睛彩竞技「WXK」
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="体育频道",睛彩竞技「Gather&WXK」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcaijingji?stream_id=0bf25b3e7ad9a8f3eae4e5837e86a83b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://logo.catvod.com/睛彩篮球.png" group-title="体育频道",睛彩篮球「WXK」
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://logo.catvod.com/睛彩篮球.png" group-title="体育频道",睛彩篮球「Gather&WXK」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcailanqiu?stream_id=bf4e1ffe7722fe11569c90de4db79ccb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="体育频道",睛彩青少「WXK」
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="体育频道",睛彩青少「Gather&WXK」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e5be4c40c42&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="体育频道",睛彩广场舞「」
-
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="体育频道",睛彩广场舞「Gather&WXK」
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://logo.catvod.com/北京体育.png" group-title="体育频道",北京体育休闲「」
 http://115.171.216.84:4000/rtp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东体育.png" group-title="体育频道",山东体育
@@ -611,12 +621,12 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
 https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="体育频道",beIN SPORTS 2「TG」
 https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
-
-#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="体育频道",至臻视界4k
-
-
-
-
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="体育频道",至臻视界 4k
+http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="体育频道",咪视界 4k
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="体育频道",咪视界
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
@@ -705,6 +715,7 @@ http://quan2018.mycloudnas.com:9000/udp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://logo.catvod.com/淘BABY.png" group-title="电影频道",淘BABY「WXK」
 http://quan2018.mycloudnas.com:9000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="电影频道",东方影视「WXK」
+http://116.232.150.99:50001/tsfile/live/0001_19.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://124.77.177.88:5555/rtp/233.18.204.4:5140
 http://119.91.196.208:23000/migu/migu20251205.php?id=617290047
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://logo.catvod.com/江苏影视.png" group-title="电影频道",江苏影视「WXKff」
@@ -831,15 +842,19 @@ P2p://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
 
 
 
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「WXK」
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「」
+http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://124.77.177.88:5555/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「WXK」
+http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://124.77.177.88:5555/rtp/233.18.204.57:5140
 http://119.91.196.208:23000/migu/migu20251205.php?id=651632657
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「WXK」
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「」
+http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「WXK」
+http://116.232.150.99:50001/tsfile/live/0001_19.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://119.91.196.208:23000/migu/migu20251205.php?id=617290047
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「WXK」
 http://yp.qqqtv.top/1/api.php?id=%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82HD&auth=666858
@@ -1337,6 +1352,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
