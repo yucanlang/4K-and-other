@@ -45,7 +45,7 @@ https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
-
+http://124.77.177.88:5555/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
@@ -1357,6 +1357,7 @@ http://www.958598.xyz:4022/rtp/239.45.1.10:5140
 
 
 #EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml"
+
 
 
 
