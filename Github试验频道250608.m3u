@@ -95,19 +95,19 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000351/index.m3u8
 http://150.138.8.132/PLTV/88888888/224/3221227070/409210222.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000350/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="新闻财经&央视频道",CCTV-5 体育
-http://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
+http://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="新闻财经&央视频道",CCTV-5+ 体育赛事
-http://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
+http://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="新闻财经&央视频道",CCTV-6 电影
 http://122.4.104.104:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="新闻财经&央视频道",CCTV-7 国防军事
 http://150.138.8.132/PLTV/88888888/224/3221226175/10000100000000060000000003110716_0.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="新闻财经&央视频道",CCTV-8 电视剧
-http://150.138.8.132/PLTV/88888888/224/3221227031/410248915.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000362/index.m3u8
+http://150.138.8.132/PLTV/88888888/224/3221227031/410248915.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="新闻财经&央视频道",CCTV-9 纪录
 http://150.138.8.132/PLTV/88888888/224/3221226177/10000100000000060000000003110720_0.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000319/index.m3u8
@@ -588,11 +588,13 @@ https://cdn3.163189.xyz/163189/wxty
 http://115.190.252.60:20508/sports.php?id=jbty
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",CCTV-5 体育☆
-http://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
-http://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5 体育
+http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5+ 体育赛事
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 「WXK」
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 http://124.93.18.239:9003/hls/16/index.m3u8
