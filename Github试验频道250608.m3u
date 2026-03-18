@@ -46,6 +46,8 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=Fifa
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影「许幸文」
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
+#EXTINF:-1 tvg-name="BesTV4K动画" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K动画「许幸文」
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 
 
 
@@ -53,6 +55,7 @@ http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.169:5140
 http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://36.24.65.177:8888/udp/233.50.200.125:5140
 http://124.77.177.88:5555/rtp/233.18.204.59:5140
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
 http://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil/index.m3u8?fmt=ts2hls
@@ -147,15 +150,18 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://logo.catvod.com/RTHK33.png" group-title="新闻财经&央视频道",RTHK33「CCTV-1」
 
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV风云剧场.png" group-title="新闻财经&央视频道",CCTV 风云剧场
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.183:5140
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.114:5540
 https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 http://124.152.56.11:53290/tsfile/live/1046_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV第一剧场.png" group-title="新闻财经&央视频道",CCTV 第一剧场
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.184:5140
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.78:5540
 https://live.264788.xyz/channel/diyijuchang?stream_id=1b9fc2b1e0472a8e9828550f0856cd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://logo.catvod.com/CCTV怀旧剧场.png" group-title="新闻财经&央视频道",CCTV 怀旧剧场
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.182:5140
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.82:5540
 https://live.264788.xyz/channel/huaijiujuchang?stream_id=785424c4495863dfbc4d69de034160f2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
@@ -201,7 +207,8 @@ https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c670
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="新闻财经&央视频道",求索纪录
 http://150.138.8.132/PLTV/88888888/224/3221227231/457055034.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000667/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="新闻财经&央视频道",三沙卫视1080P「WXK」
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="新闻财经&央视频道",三沙卫视「许幸文&WXK」
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.172:5140
 http://j1900.silicaite.top:58888/rtp/239.49.0.167:8000
 https://srs.ssws.tv/video/sstv-10/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="新闻财经&央视频道",海峡卫视「WXK」
@@ -935,16 +942,19 @@ P2p://starvod.xyz:19806/08105ee824114f418daecd2956b50cd1.ts
 
 
 
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「」
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「混合」
 http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.59:5140
 http://124.77.177.88:5555/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「WXK」
 http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.57:5140
 http://124.77.177.88:5555/rtp/233.18.204.57:5140
 http://119.91.196.208:23000/migu/migu20251205.php?id=651632657
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「许幸文&WXK」
 http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.58:5140
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「 &许幸文」
@@ -980,10 +990,9 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002010/index.m3u8
 http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="上海频道",SITV金色学堂「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002018/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场4K「958598」
-
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场1080「958598」
-
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场4K「许幸文」
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.115:5140
+http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.205:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="上海频道",SITV生活时尚「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="上海频道",SITV乐游「鲁电」
@@ -1102,6 +1111,294 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000645/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000662/index.m3u8
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://logo.catvod.com/国学频道.png" group-title="数字频道",国学频道
 rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
+
+
+#EXTINF:-1 tvg-name="青岛新闻综合" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV1.png" group-title="地方频道",青岛新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000500/index.m3u8
+#EXTINF:-1 tvg-name="青岛生活服务" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV2.png" group-title="地方频道",青岛生活服务
+http://122.4.104.104:80/00/SNM/CHANNEL00000501/index.m3u8
+#EXTINF:-1 tvg-name="青岛影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV3.png" group-title="地方频道",青岛影视
+http://122.4.104.104:80/00/SNM/CHANNEL00000502/index.m3u8
+#EXTINF:-1 tvg-name="青岛财经资讯" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV4.png" group-title="地方频道",青岛财经资讯
+http://122.4.104.104:80/00/SNM/CHANNEL00000503/index.m3u8
+#EXTINF:-1 tvg-name="青岛都市" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV5.png" group-title="地方频道",青岛都市
+http://122.4.104.104:80/00/SNM/CHANNEL00000504/index.m3u8
+#EXTINF:-1 tvg-name="青岛教育" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shandong/QTV6.png" group-title="地方频道",青岛教育
+http://122.4.104.104:80/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/QDLS.png" group-title="地方频道",崂山综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/XHATV.png" group-title="地方频道",黄岛综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001086/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/XHATV.png" group-title="地方频道",黄岛生活
+http://122.4.104.104:80/00/SNM/CHANNEL00001087/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/JZZH.png" group-title="地方频道",胶州综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001074/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/PDTV.png" group-title="地方频道",平度新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001054/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/LXTV.png" group-title="地方频道",莱西综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001067/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNWLTY.png" group-title="地方频道",济南新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNDS.png" group-title="地方频道",济南都市
+http://122.4.104.104:80/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNSH.png" group-title="地方频道",济南生活
+http://122.4.104.104:80/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNWLTY.png" group-title="地方频道",济南文旅体育
+http://122.4.104.104:80/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNYL.png" group-title="地方频道",济南娱乐
+http://122.4.104.104:80/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/jnse.png" group-title="地方频道",济南少儿
+http://122.4.104.104:80/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/jnlz.png" group-title="地方频道",济南鲁中
+http://122.4.104.104:80/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNJY.png" group-title="地方频道",济南教育
+http://122.4.104.104:80/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNLCTV.png" group-title="地方频道",历城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNCQTV.png" group-title="地方频道",长清综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZQTV.png" group-title="地方频道",章丘综合
+http://122.4.104.104:80/00/SNM/CHANNEL00004009/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNJYTV.png" group-title="地方频道",济阳综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNPYTV.png" group-title="地方频道",平阴综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNSHTV.png" group-title="地方频道",商河综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001008/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBXWZH.png" group-title="地方频道",淄博新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBWL.png" group-title="地方频道",淄博文旅
+http://122.4.104.104:80/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBMS.png" group-title="地方频道",淄博民生
+http://122.4.104.104:80/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBYS.png" group-title="地方频道",淄博影视
+http://122.4.104.104:80/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBZDTV.png" group-title="地方频道",张店综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBZCTV.png" group-title="地方频道",淄川新闻
+http://122.4.104.104:80/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBZC.png" group-title="地方频道",周村新闻
+http://122.4.104.104:80/00/SNM/CHANNEL00001019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBHTTV.png" group-title="地方频道",桓台综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBGQTV.png" group-title="地方频道",高青综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/ZBYYTV.png" group-title="地方频道",沂源综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/dytv.png" group-title="地方频道",东营新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/dytv.png" group-title="地方频道",东营公共
+http://122.4.104.104:80/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DYGRTV.png" group-title="地方频道",广饶综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTTV.png" group-title="地方频道",烟台新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000280/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTTV.png" group-title="地方频道",烟台公共
+http://122.4.104.104:80/00/SNM/CHANNEL00000281/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTTV.png" group-title="地方频道",烟台经济科教
+http://122.4.104.104:80/00/SNM/CHANNEL00000282/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTTV.png" group-title="地方频道",烟台影视
+http://122.4.104.104:80/00/SNM/CHANNEL00000283/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTMP.png" group-title="地方频道",牟平综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTMP.png" group-title="地方频道",牟平生活
+http://122.4.104.104:80/00/SNM/CHANNEL00001077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTPL.png" group-title="地方频道",蓬莱综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001088/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTLK.png" group-title="地方频道",龙口综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTZY.png" group-title="地方频道",招远综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTXX.png" group-title="地方频道",栖霞综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001055/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTHY.png" group-title="地方频道",海阳综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001091/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTHY.png" group-title="地方频道",海阳综艺
+http://122.4.104.104:80/00/SNM/CHANNEL00001092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/YTCD.png" group-title="地方频道",长岛综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001090/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFTV.png" group-title="地方频道",潍坊新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000215/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFTV.png" group-title="地方频道",潍坊经济生活
+http://122.4.104.104:80/00/SNM/CHANNEL00000216/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFTV.png" group-title="地方频道",潍坊影视综艺
+http://122.4.104.104:80/00/SNM/CHANNEL00000217/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFTV.png" group-title="地方频道",潍坊科教文旅
+http://122.4.104.104:80/00/SNM/CHANNEL00000218/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFGX.png" group-title="地方频道",潍坊新高区
+http://122.4.104.104:80/00/SNM/CHANNEL00001106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFQZ.png" group-title="地方频道",青州综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001042/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFQZ.png" group-title="地方频道",青州文化旅游
+http://122.4.104.104:80/00/SNM/CHANNEL00001057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFZC.png" group-title="地方频道",诸城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFSG.png" group-title="地方频道",寿光综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFSG.png" group-title="地方频道",寿光蔬菜
+http://122.4.104.104:80/00/SNM/CHANNEL00001045/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFAQ.png" group-title="地方频道",安丘综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFGM.png" group-title="地方频道",高密综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001089/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFCY.png" group-title="地方频道",昌邑综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001083/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFCL.png" group-title="地方频道",昌乐综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WFLQ.png" group-title="地方频道",临朐综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001085/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNTV.png" group-title="地方频道",济宁综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNTV.png" group-title="地方频道",济宁生活
+http://122.4.104.104:80/00/SNM/CHANNEL00000239/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNTV.png" group-title="地方频道",济宁公共
+http://122.4.104.104:80/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNGX.png" group-title="地方频道",济宁高新
+http://122.4.104.104:80/00/SNM/CHANNEL00001101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNRC.png" group-title="地方频道",任城新闻生活
+http://122.4.104.104:80/00/SNM/CHANNEL00001111/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNRC.png" group-title="地方频道",任城影视娱乐
+http://122.4.104.104:80/00/SNM/CHANNEL00001112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNYZ.png" group-title="地方频道",兖州综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNQF.png" group-title="地方频道",曲阜综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNZC.png" group-title="地方频道",邹城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNYT.png" group-title="地方频道",鱼台综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNYT.png" group-title="地方频道",鱼台生活
+http://122.4.104.104:80/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNJX.png" group-title="地方频道",嘉祥综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNLS.png" group-title="地方频道",梁山新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TATS.png" group-title="地方频道",泰山综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001114/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TADY.png" group-title="地方频道",岱岳综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TAXT.png" group-title="地方频道",新泰综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TAXT.png" group-title="地方频道",新泰乡村
+http://122.4.104.104:80/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TANY.png" group-title="地方频道",宁阳综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TANY.png" group-title="地方频道",宁阳二套
+http://122.4.104.104:80/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/TADP.png" group-title="地方频道",东平综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WHTV.png" group-title="地方频道",威海新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000274/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WHTV.png" group-title="地方频道",威海都市生活
+http://122.4.104.104:80/00/SNM/CHANNEL00000275/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WHRC.png" group-title="地方频道",荣城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/WHRS.png" group-title="地方频道",乳山综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/RZTV.png" group-title="地方频道",日照新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000262/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/RZTV.png" group-title="地方频道",日照科教
+http://122.4.104.104:80/00/SNM/CHANNEL00000263/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/RZTV.png" group-title="地方频道",日照公共
+http://122.4.104.104:80/00/SNM/CHANNEL00001100/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/RZJX.png" group-title="地方频道",莒县综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/RZLS.png" group-title="地方频道",岚山综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYHD.png" group-title="地方频道",河东综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYYN.png" group-title="地方频道",沂水综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYYN.png" group-title="地方频道",沂水生活
+http://122.4.104.104:80/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYLL.png" group-title="地方频道",兰陵综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYLL.png" group-title="地方频道",兰陵公共
+http://122.4.104.104:80/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYMY.png" group-title="地方频道",蒙阴综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYLS.png" group-title="地方频道",临沭综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LYJN.png" group-title="地方频道",莒南综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/德州新闻综合.png" group-title="地方频道",德州新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/德州新闻综合.png" group-title="地方频道",德州经济生活
+http://122.4.104.104:80/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZLC.png" group-title="地方频道",陵城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZYC.png" group-title="地方频道",禹城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZYC.png" group-title="地方频道",禹城综艺
+http://122.4.104.104:80/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZNJ.png" group-title="地方频道",宁津综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZQH.png" group-title="地方频道",齐河综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZWC.png" group-title="地方频道",武城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZWC.png" group-title="地方频道",武城综艺影视
+http://122.4.104.104:80/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZPY.png" group-title="地方频道",平原综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZXJ.png" group-title="地方频道",夏津综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZXJ.png" group-title="地方频道",夏津公共
+http://122.4.104.104:80/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/DZLY.png" group-title="地方频道",临邑综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCTVGQ.png" group-title="地方频道",聊城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCTVGQ.png" group-title="地方频道",聊城民生
+http://122.4.104.104:80/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCCP.png" group-title="地方频道",茬平综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCLQ.png" group-title="地方频道",临清综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCSX.png" group-title="地方频道",莘县综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCGX.png" group-title="地方频道",冠县综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/LCDE.png" group-title="地方频道",东阿综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/滨州新闻.png" group-title="地方频道",滨州新闻综合
+http://122.4.104.104:80/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/滨州新闻.png" group-title="地方频道",滨州民生
+http://122.4.104.104:80/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BZZHTV.png" group-title="地方频道",沾化综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BZZP.png" group-title="地方频道",邹平综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BZHM.png" group-title="地方频道",惠民综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BZYX.png" group-title="地方频道",阳信综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/BZWD.png" group-title="地方频道",无棣综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZTV.png" group-title="地方频道",菏泽新闻
+http://122.4.104.104:80/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZTV.png" group-title="地方频道",菏泽公共
+http://122.4.104.104:80/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZDT.png" group-title="地方频道",定陶综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZSX.png" group-title="地方频道",单县综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZJC.png" group-title="地方频道",鄄城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001084/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZYC.png" group-title="地方频道",郓城综合
+http://122.4.104.104:80/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1  tvg-id=""tvg-name="" tvg-logo="https://upload.112114.xyz/logo/JNJYTV.png" group-title="地方频道",巨野新闻
+http://122.4.104.104:80/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/HZDM.png" group-title="地方频道",东明新闻
+http://122.4.104.104:80/00/SNM/CHANNEL00001065/index.m3u8
+
+
+
+
 
 
 
