@@ -56,6 +56,7 @@ http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&a
 http://36.24.65.177:8888/udp/233.50.200.125:5140
 http://124.77.177.88:5555/rtp/233.18.204.59:5140
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.59:5140
+https://tv.iill.top/kdf/21
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
 http://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil/index.m3u8?fmt=ts2hls
@@ -235,6 +236,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000336/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="新闻财经&央视频道",上海新闻综合「许幸文」
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.57:5140
+https://tv.iill.top/kdf/20
 http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://124.77.177.88:5555/rtp/233.18.204.57:5140
 http://218.78.179.62:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -589,6 +591,7 @@ https://live.iill.top/bilibili/22021983
 http://cz.crossec.com:35455/douyu/488743
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
 http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+https://tv.iill.top/kdf/1605
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育
@@ -952,24 +955,26 @@ http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&a
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.57:5140
 http://124.77.177.88:5555/rtp/233.18.204.57:5140
 http://119.91.196.208:23000/migu/migu20251205.php?id=651632657
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「许幸文&WXK」
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「许幸文&WXK&YanG佬」
 http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.58:5140
+https://tv.iill.top/kdf/1605
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「 &许幸文」
 http://116.232.150.99:50001/tsfile/live/0001_19.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.55:5140
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「许幸文」
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「许幸文&YanG佬」
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.53:5140
+https://tv.iill.top/kdf/18
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场「许幸文」
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.50:5140
 #EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="上海频道",新纪实「WXK」
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" group-title="上海频道",魔都眼「WXK」
-https://43.251.226.89/shanghai.php?id=mdy
 #EXTINF:-1 tvg-name="看东方" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="上海频道",看东方「WXK」
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" group-title="上海频道",魔都眼「YanG佬」
+https://tv.iill.top/kdf/1601
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="上海频道",上海外语
 
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.iill.top/logo/上海教育.png" group-title="上海频道",上海教育「许幸文」
