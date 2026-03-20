@@ -241,6 +241,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://upload.112114.xyz/logo/sdjy.png" group-title="新闻财经&央视频道",山东教育
 http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="新闻财经&央视频道",上海新闻综合「许幸文」
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.57:5140
 https://tv.iill.top/kdf/20
 http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -607,9 +608,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227138/415322482.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5 体育
-http://150.138.8.143/00/SNM/CHANNEL30000005/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",精品体育「China TV」
+https://live.264788.xyz/channel/newtvjingpintiyu?streamid=c6d38d114b6ac7088f9600529f26f47a&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事★" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5+ 体育赛事CCTV-5+ 体育赛事★
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 「WXK」
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -620,16 +621,19 @@ http://180.76.145.203:1111/ysp.php?id=CCTV16
 http://36.20.107.16:8888/rtp/233.50.200.112:5140
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://logo.catvod.com/CCTV高尔夫网球.png" group-title="体育频道",CCTV高尔夫网球
+https://live.264788.xyz/channel/gaoerfuwangqiu?streamid=c07b1362684a220cb0bc619ae869b75f&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 http://124.93.18.239:9003/hls/19/index.m3u8
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.230:5540
 https://live.264788.xyz/channel/gaoerfuwangqiu?stream_id=81cf839d747fe79320ed21502f9b343e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://logo.catvod.com/CCTV央视台球.png" group-title="体育频道",CCTV央视台球
+https://live.264788.xyz/channel/yangshitaiqiu?streamid=9679c6066eaea41803687ab95ac160aa&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 http://124.93.18.239:9003/hls/20/index.m3u8
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.163:5540
 https://live.264788.xyz/channel/yangshitaiqiu?stream_id=e9305cac298deddf6919889677a4ce69&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://logo.catvod.com/CCTV风云足球.png" group-title="体育频道",CCTV风云足球
+https://live.264788.xyz/channel/fengyunzuqiu?streamid=d6252ab5e983d48dbbb244d84a4c99a6&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.80:5540
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 4K「hw&许幸文」
