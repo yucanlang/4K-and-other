@@ -208,7 +208,7 @@ https://live.264788.xyz/channel/yangshitaiqiu?stream_id=e9305cac298deddf69198896
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.83:5540
 https://live.264788.xyz/channel/yangshiwenhuajingpin?stream_id=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
-#EXTINF:-1 ,⬆★★★上述CCTV来自wxk1.m3u等等
+#EXTINF:-1 group-title="新闻财经&央视频道",⬆★★★上述CCTV来自wxk1.m3u等等
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="新闻财经&央视频道",求索纪录
 http://150.138.8.132/PLTV/88888888/224/3221227231/457055034.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00000667/index.m3u8
@@ -239,7 +239,10 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 https://live.264788.xyz/channel/newtvjingpinjilu?stream_id=7c48dbee82b50c887a88e1af1a42a478&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="欧洲华文电视台" tvg-logo="https://logo.catvod.com/欧洲华文.png" group-title="新闻财经&央视频道",欧洲华文电视台
 http://oh.eztv.vip/live/eztv1.m3u8
-#EXTINF:-1 ,⬆★★★江苏频道河南频道欧洲华文来自gitee「wxk」ff
+#EXTINF:-1 group-title="新闻财经&央视频道",⬆★★★江苏频道河南频道欧洲华文来自gitee「wxk」ff
+#EXTINF:-1 group-title="新闻财经&央视频道",CNA亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg-1.iill.top/logo/Now新聞台.png" group-title="新闻财经&央视频道",Now新闻台「WXK」
 http://cdn.163189.xyz/163189/now#http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://epg-1.iill.top/logo/Now新聞台.png" group-title="新闻财经&央视频道",now直播台「WXK」
@@ -485,7 +488,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道",CCTV-5+ 体育赛事☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",精品体育「China TV」
-https://live.264788.xyz/channel/newtvjingpintiyu?streamid=c6d38d114b6ac7088f9600529f26f47a&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事★" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5+ 体育赛事CCTV-5+ 体育赛事★
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 「WXK」
@@ -595,17 +598,17 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://logo.catvod.com/动作电影.png" group-title="电影频道",NewTV动作电影「China TV」
-https://live.264788.xyz/channel/newtvdongzuodianying?streamid=dc4df8b22f3ce9e79832bdd91cd7ea76&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://logo.catvod.com/黑莓电影.png" group-title="电影频道",黑莓电影「China TV」
-https://live.264788.xyz/channel/heimeidianying?streamid=0f69ac869129727458832b942c7e0b26&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-name="POPC" tvg-logo="https://logo.catvod.com/黑莓电影.png" group-title="电影频道",POPC「WXK 」
 http://pull-vivek.speedws.com/live/aaapopc.flv
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://logo.catvod.com/爱情喜剧.png" group-title="电影频道",NewTV爱情喜剧「China TV」
-https://live.264788.xyz/channel/newtvaiqingxiju?streamid=cc6c6d48be7d2bd5b0be57ea1aacb942&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://logo.catvod.com/惊悚悬疑.png" group-title="电影频道",NewTV惊悚悬疑「China TV」
-https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://logo.catvod.com/黑莓动画.png" group-title="电影频道",黑莓动画「China TV」
-https://live.264788.xyz/channel/heimeidonghua?streamid=cc6c6d48be7d2bd5b0be57ea1aacb942&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",龙祥时代「YanG」
 https://tv.iill.top/api/LSTIME-Movie/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",影迷數位電影台「YanG」
@@ -1516,6 +1519,7 @@ rtsp://150.138.8.132/PLTV/88888888/224/3221227239/494657502.smil
 
 #EXTINF:-1 group-title="外新闻纪录",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="外新闻纪录",BBC720P
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="外新闻纪录",RT News
