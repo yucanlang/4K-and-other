@@ -529,7 +529,8 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=Fifa
 https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e5be4c40c42&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="体育频道",睛彩广场舞「Gather&WXK」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://logo.catvod.com/北京体育.png" group-title="体育频道",北京体育休闲「」
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://logo.catvod.com/北京体育.png" group-title="体育频道",北京体育休闲「WXK」
+http://129.211.14.102:25000/btime.php?id=bjjs&token=www.9kds.com
 http://115.171.216.84:4000/rtp/225.1.8.23:8002
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://epg.iill.top/logo/山东体育.png" group-title="体育频道",山东体育
 http://122.4.104.104:80/00/SNM/CHANNEL00000315/index.m3u8
