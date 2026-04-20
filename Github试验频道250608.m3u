@@ -28,9 +28,8 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K频道",纯享4K·UHD「China TV」
 https://live.264788.xyz/channel/chunxiang4k?streamid=c162e99191441b46592808f7f1afe8b0&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K「许幸文&hw2837」
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.115:5140
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.205:5140
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K「ChinaTV&hw2837」
+https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV16 4K「China TV」
@@ -58,10 +57,6 @@ http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.171:5140
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经
 https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
-http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-http://36.24.65.177:8888/udp/233.50.200.125:5140
-http://124.77.177.88:5555/rtp/233.18.204.59:5140
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.59:5140
 https://tv.iill.top/kdf/21
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
@@ -72,6 +67,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「YanG&linkenan&扫源」
 https://cdn6.163189.xyz/163189/fhzw
 http://r.jdshipin.com/cCCzW
+http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
 http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「YanG&linkenan&扫源」
 https://cdn6.163189.xyz/163189/fhzx
@@ -840,26 +836,20 @@ https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「混合」
 https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
-http://116.232.150.99:50001/tsfile/live/0001_43.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.59:5140
-http://124.77.177.88:5555/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「WXK」
-http://116.232.150.99:50001/tsfile/live/0001_17.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.57:5140
-http://124.77.177.88:5555/rtp/233.18.204.57:5140
-http://119.91.196.208:23000/migu/migu20251205.php?id=651632657
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「许幸文&WXK&YanG佬」
-http://116.232.150.99:50001/tsfile/live/0001_41.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.58:5140
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「ChinaTV&YanG佬」
+https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+https://tv.iill.top/kdf/20
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「China TV&YanG佬」
+https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 https://tv.iill.top/kdf/1605
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「ChinaTV&许幸文」
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「ChinaTV」
 https://live.264788.xyz/channel/dongfangyingshi?streamid=6b0126f9b7bc4f48ba696eec5680e906&livekey=01WeguWNbt9J58PAMMAQCN3Rnyl336lrspzMf
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.55:5140
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「许幸文&YanG佬」
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.53:5140
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「ChinaTV&YanG佬」
+https://live.264788.xyz/channel/shanghaidushi?streamid=04d627efc64630bba0d2507513583a6f&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 https://tv.iill.top/kdf/18
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场「许幸文」
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.50:5140
@@ -871,8 +861,8 @@ http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 https://tv.iill.top/kdf/1601
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="上海频道",上海外语
 
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.iill.top/logo/上海教育.png" group-title="上海频道",上海教育「许幸文」
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.63:5140
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.iill.top/logo/上海教育.png" group-title="上海频道",上海教育「ChinaTV」
+https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="上海频道",爱上海
@@ -889,9 +879,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002010/index.m3u8
 http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="上海频道",SITV金色学堂「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002018/index.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场4K「许幸文」
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.115:5140
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.205:5140
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV多彩文体4K「ChinaTV」
+https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="上海频道",SITV生活时尚「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002019/index.m3u8
 #EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="上海频道",SITV乐游「鲁电」
@@ -1152,18 +1141,24 @@ http://cm-wshls.homecdn.com/8c1.m3u8
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",江苏新闻
 http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
+http://www.frankgb.cn:4022/udp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://logo.catvod.com/江苏城市.png" group-title="地方频道",江苏城市
 http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
+http://www.frankgb.cn:4022/udp/239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="地方频道",江苏国际
 http://j1900.silicaite.top:58888/rtp/239.49.1.23:6000
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://logo.catvod.com/江苏教育.png" group-title="地方频道",江苏教育
 http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
+http://www.frankgb.cn:4022/udp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://logo.catvod.com/江苏影视.png" group-title="地方频道",江苏影视
 http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
+http://www.frankgb.cn:4022/udp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://logo.catvod.com/江苏综艺.png" group-title="地方频道",江苏综艺
 http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
+http://www.frankgb.cn:4022/udp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="地方频道",江苏体育
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
+http://www.frankgb.cn:4022/udp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://logo.catvod.com/河南新闻.png" group-title="地方频道",河南新闻
 http://1.94.31.214/php/hntv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://logo.catvod.com/河南都市.png" group-title="地方频道",河南都市
