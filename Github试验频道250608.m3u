@@ -62,19 +62,14 @@ http://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil/index.m3u8?fmt=
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="新闻财经&央视频道",财富天下
 http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「YanG&linkenan&扫源」
-https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「许幸文&linkenan」
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 http://r.jdshipin.com/cCCzW
-http://vpn.clnas0001.top:9981/stream/channelid/2064247055?profile=pass
-http://171.38.107.33:8282/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「YanG&linkenan&扫源」
-https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「许幸文&linkenan」
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 http://r.jdshipin.com/0Rp07
-http://171.38.107.33:8282/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「YanG&linkenan&扫源」
-https://cdn6.163189.xyz/163189/fhhk
-http://r.jdshipin.com/yDoTN
-http://171.38.107.33:8282/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「许幸文&linkenan」
+http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" group-title="新闻财经&央视频道",香港卫视「WXK」
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="新闻财经&央视频道",CCTV-13 新闻
@@ -603,29 +598,29 @@ http://pull-vivek.speedws.com/live/aaapopc.flv
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://logo.catvod.com/黑莓动画.png" group-title="电影频道",黑莓动画「China TV」
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",龙祥时代「YanG」
-https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",影迷數位電影台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv011/index.m3u8
+
 #EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="电影频道",緯來電影台「YanG」
-https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="电影频道",东森电影台「YanG」
-https://cdn.19891230.eu.org/api/ET-Movie/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",东森洋片「YanG」
-https://cdn.19891230.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",CINEMAX「YanG」
-https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",amc電影台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv017/index.m3u8
+
 #EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://epg.iill.top/logo/靖天电影.png" group-title="电影频道",靖天电影台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv061/index.m3u8
+
 #EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="电影频道",好莱坞电影台「YanG」
-https://cdn.19891230.eu.org/api/Hollywood-Movie/index.m3u8
+
 #EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://upload.112114.xyz/logo/美亚电影台.png" group-title="电影频道",ROCK ACTION「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-live138/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",My Cinema Europe我的歐洲電影「YanG」
-https://cdn.19891230.eu.org/4gtv/litv-ftv10/index.m3u8
+
 #EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://logo.catvod.com/靖洋戏剧.png" group-title="电影频道",靖洋戲劇台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv045/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",天映马来西亚「YanG」
 https://o11.163189.xyz/stream/live/typd/
 
@@ -636,7 +631,7 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",HBO Family HD「YanG」
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-logo="https://logo.catvod.com/NOW爆谷.png" group-title="电影频道",HBO Signature HD「YanG」
-https://hls.iill.top/api/HBO-Signature/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.iill.top/logo/CHC家庭影院.png" group-title="电影频道",龙祥时代「APTV扫源」
