@@ -62,13 +62,13 @@ http://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil/index.m3u8?fmt=
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="新闻财经&央视频道",财富天下
 http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「许幸文&linkenan」
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「许幸文&WXK」
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「许幸文&linkenan」
+http://www.lvyjay.win:4022/udp/233.50.202.35:5140
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「许幸文&WXK」
 http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「许幸文&linkenan」
+http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「许幸文&WXK」
 http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" group-title="新闻财经&央视频道",香港卫视「WXK」
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1042,6 +1042,7 @@ https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png"group-title="地方频道",广州影视
 https://tencentplaybusiness.gztv.com/live/yingshi.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://epg.iill.top/logo/广州综合.png"group-title="地方频道",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 http://r.jdshipin.com/nWaZO
 #EXTINF:-1 ,⬆★★★广州频道来自gitee「hw2837」
@@ -1132,6 +1133,7 @@ http://www.frankgb.cn:4022/udp/239.49.8.120:8000
 http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
 http://www.frankgb.cn:4022/udp/239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="地方频道",江苏国际
+http://www.lvyjay.win:4022/udp/233.50.202.31:5140
 http://j1900.silicaite.top:58888/rtp/239.49.1.23:6000
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://logo.catvod.com/江苏教育.png" group-title="地方频道",江苏教育
 http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
