@@ -144,18 +144,15 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://logo.catvod.com/RTHK33.png" group-title="新闻财经&央视频道",RTHK33「linkenan」
 http://rihou.cc:555/tv/[Pd]央视综合
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://logo.catvod.com/CCTV风云剧场.png" group-title="新闻财经&央视频道",CCTV 风云剧场
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.183:5140
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.114:5540
 https://live.264788.xyz/channel/fengyunjuchang?stream_id=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 http://124.152.56.11:53290/tsfile/live/1046_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://logo.catvod.com/CCTV第一剧场.png" group-title="新闻财经&央视频道",CCTV 第一剧场
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.184:5140
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.78:5540
 https://live.264788.xyz/channel/diyijuchang?stream_id=1b9fc2b1e0472a8e9828550f0856cd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://logo.catvod.com/CCTV怀旧剧场.png" group-title="新闻财经&央视频道",CCTV 怀旧剧场
-http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.182:5140
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.82:5540
 https://live.264788.xyz/channel/huaijiujuchang?stream_id=785424c4495863dfbc4d69de034160f2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
@@ -209,8 +206,9 @@ https://srs.ssws.tv/video/sstv-10/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="新闻财经&央视频道",海峡卫视「China TV」
 https://live.264788.xyz/channel/haixiaweishi?streamid=be23d18302e75af7b2388988938fa934&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://r.jdshipin.com/WtYt3
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="新闻财经&央视频道",大湾区卫视「APTV扫源 」
-http://171.38.107.33:8282/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="新闻财经&央视频道",大湾区卫视「wxk&hw」
+http://8.138.7.223/tv/dwq.m3u8
+https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="新闻财经&央视频道",东南卫视
 http://122.4.104.104:80/00/SNM/CHANNEL00000310/index.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="新闻财经&央视频道",上海新闻综合「ChinaTV&YanG」
@@ -295,41 +293,41 @@ https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="新闻财经&央视频道",无线新闻「linkenan」
 https://cdn6.163189.xyz/163189/wxxw#http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新闻财经&央视频道",中天新闻「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
+
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="新闻财经&央视频道",寰宇新闻「YanG」
-https://cdn.19891230.eu.org/4gtv/litv-longturn14/index.m3u8
+
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="新闻财经&央视频道",寰宇新聞台灣台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv156/index.m3u8
+
 #EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://epg.iill.top/logo/寰宇新闻.png" group-title="新闻财经&央视频道",寰宇財經台「YanG」
-https://cdn.19891230.eu.org/ofiii/4gtv-4gtv158/index.m3u8
+
 #EXTINF:-1 tvg-name="東森新闻" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="新闻财经&央视频道",東森新闻「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+
 #EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="新闻财经&央视频道",東森財經新聞台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv153/index.m3u8
+
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS新闻台「YanG」
-https://cdn.19891230.eu.org/4gtv/media-live072/index.m3u8
+
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",TVBS「YanG」
-https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
+
 #EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",年代新聞台「YanG」
-https://cdn.19891230.eu.org/api/Era-News/index.m3u8
+
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",三立新聞iNEWS「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-live089/index.m3u8
+
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",鏡電視新聞台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv075/index.m3u8
+
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.iill.top/logo/台视新闻.png" group-title="新闻财经&央视频道",台视新闻「YanG」
-https://cdn.19891230.eu.org/ofiii/4gtv-4gtv051/index.m3u8
+
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新闻财经&央视频道",中視新聞「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv074/index.m3u8
+
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新闻财经&央视频道",民視新聞「YanG」
-https://cdn.19891230.eu.org/4gtv/litv-ftv13/index.m3u8
+
 #EXTINF:-1 tvg-name="華視新聞資訊" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新闻财经&央视频道",華視新聞資訊「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
+
 #EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",三立綜合台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-live207/index.m3u8
+
 #EXTINF:-1 tvg-name="靖天資訊台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新闻财经&央视频道",靖天資訊台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-4gtv065/index.m3u8
+
 #EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新闻财经&央视频道",CNBC Asia 財經台「YanG」
-https://cdn.19891230.eu.org/4gtv/4gtv-live130/index.m3u8
+
 
 
 
