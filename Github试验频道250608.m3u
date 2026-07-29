@@ -45,8 +45,8 @@ http://r.jdshipin.com/Lqdwf
 http://r.jdshipin.com/ln4xk
 #EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://logo.catvod.com/BesTV4K.png" group-title="4K频道",BesTV4K纪录「许幸文」
 
-#EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影「许幸文」
-
+#EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影「WXK扫源」
+http://www.lvyjay.win:4022/udp/233.50.200.185:5140
 #EXTINF:-1 tvg-name="BesTV4K动画" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K动画「许幸文」
 
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="4K频道",翡翠台4K「linkenan」
@@ -478,6 +478,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事★" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="体育频道" tvg-shift="0" catchup="default" catchup-days="7" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226143/10000100000000060000000003071273_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" resolution="1920x1080" ,CCTV-5+ 体育赛事CCTV-5+ 体育赛事★
 http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 「WXK」
+http://www.lvyjay.win:4022/udp/233.50.200.112:5140
+http://www.lvyjay.win:4022/udp/233.50.200.112:5140
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 http://183.129.255.66:8480/hls/17/index.m3u8
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
@@ -499,7 +501,6 @@ https://live.264788.xyz/channel/fengyunzuqiu?streamid=d6252ab5e983d48dbbb244d84a
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://tonyk.56301232.xyz:3477/rtp/239.37.0.80:5540
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV16 4K「WXK&许幸文」
-http://www.lvyjay.win:4022/udp/233.50.200.112:5140
 https://live.264788.xyz/channel/cctv164k?streamid=aac7972bcf1975e8346c9af0508a7c01&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
@@ -544,6 +545,7 @@ http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="红牛" tvg-logo="https://logo.catvod.com/Now新闻台.png" group-title="体育频道",红牛「hw2837」
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",CCTV-16 奥林匹克★1080P
+http://www.lvyjay.win:4022/udp/233.50.200.112:5140
 http://j1900.silicaite.top:58888/rtp/239.49.8.31:8000
 http://219.144.190.2:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="体育频道",Trace Sport Stars
