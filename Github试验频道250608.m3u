@@ -31,6 +31,7 @@ https://live.264788.xyz/channel/chunxiang4k?streamid=c162e99191441b46592808f7f1a
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K「ChinaTV&hw2837」
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
 https://live.264788.xyz/channel/huanxiaojuchang4k?streamid=c74f322efa6c238fc535a83f14f86677&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+http://demo.medrun.cn:4022/rtp/233.18.204.115:5140
 https://live.tv.darwinchow.com/channel/huanxiaojuchang4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV16 4K「China TV」
 https://live.264788.xyz/channel/cctv164k?streamid=aac7972bcf1975e8346c9af0508a7c01&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
@@ -43,10 +44,11 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=Fifa
 http://r.jdshipin.com/Lqdwf
 #EXTINF:-1 tvg-name="咪视界4k" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="4K频道",咪视界4k「linkenan」
 http://r.jdshipin.com/ln4xk
-#EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://logo.catvod.com/BesTV4K.png" group-title="4K频道",BesTV4K纪录「许幸文」
-
+#EXTINF:-1 tvg-name="BesTV4K纪录" tvg-logo="https://logo.catvod.com/BesTV4K.png" group-title="4K频道",BesTV4K纪录「WXK」
+http://demo.medrun.cn:4022/rtp/233.18.204.170:5140
 #EXTINF:-1 tvg-name="BesTV4K电影" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K电影「WXK扫源」
 http://www.lvyjay.win:4022/udp/233.50.200.185:5140
+http://demo.medrun.cn:4022/rtp/233.18.204.169:5140
 #EXTINF:-1 tvg-name="BesTV4K动画" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="4K频道",BesTV4K动画「许幸文」
 
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="4K频道",翡翠台4K「linkenan」
@@ -63,11 +65,11 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://logo.catvod.com/财富天下.png" group-title="新闻财经&央视频道",财富天下
 http://122.4.104.104:80/00/SNM/CHANNEL00000607/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="新闻财经&央视频道",凤凰中文「许幸文&WXK」
-http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 http://www.lvyjay.win:4022/udp/233.50.202.35:5140
+http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="新闻财经&央视频道",凤凰资讯「许幸文&WXK」
-http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 http://www.lvyjay.win:4022/udp/233.50.202.36:5140
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="新闻财经&央视频道",凤凰香港「许幸文&WXK」
 http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" group-title="新闻财经&央视频道",香港卫视「WXK」
@@ -508,12 +510,15 @@ http://183.129.255.66:8480/hls/17/index.m3u8
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="体育频道",睛彩竞技「Gather&WXK」
+http://www.frankgb.cn:4022/udp/239.49.8.39:8000
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcaijingji?stream_id=0bf25b3e7ad9a8f3eae4e5837e86a83b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://logo.catvod.com/睛彩篮球.png" group-title="体育频道",睛彩篮球「Gather&WXK」
+http://www.frankgb.cn:4022/udp/239.49.8.42:8000
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcailanqiu?stream_id=bf4e1ffe7722fe11569c90de4db79ccb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://logo.catvod.com/睛彩青少.png" group-title="体育频道",睛彩青少「Gather&WXK」
+http://www.frankgb.cn:4022/udp/239.49.8.46:8000
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 https://live.264788.xyz/channel/jingcaiqingshao?stream_id=2c0897cfcbb4de5352a10e5be4c40c42&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://logo.catvod.com/睛彩广场舞.png" group-title="体育频道",睛彩广场舞「Gather&WXK」
@@ -823,9 +828,11 @@ https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「混合」
 https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「ChinaTV&YanG佬」
 https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
+http://demo.medrun.cn:4022/rtp/233.18.204.57:5140
 https://tcdn.19891230.eu.org/kdf/20
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「China TV&YanG佬」
 https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
@@ -1003,7 +1010,8 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000338/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://upload.112114.xyz/logo/sdjy.png" group-title="地方频道",山东教育
 http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
-
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://upload.112114.xyz/logo/sdjy.png" group-title="地方频道",四川乡村「WXK」
+http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://logo.catvod.com/乐山新闻综合.png" group-title="地方频道",乐山新闻综合「huangsuming」
 http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 #EXTINF:-1 tvg-name="乐山文旅生活" tvg-logo="https://logo.catvod.com/乐山文旅生活.png" group-title="地方频道",乐山文旅生活「huangsuming」
