@@ -591,6 +591,12 @@ http://122.4.104.104:80/00/SNM/CHANNEL00002029/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00002030/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="电影频道",CCTV-6 电影☆
 http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S1」
+http://114.250.19.48:8188/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S2」
+http://111.194.1.54:8188/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",爱上4K「S2」
+http://111.194.1.54:8188/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://logo.catvod.com/动作电影.png" group-title="电影频道",NewTV动作电影「China TV」
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://logo.catvod.com/黑莓电影.png" group-title="电影频道",黑莓电影「China TV」
