@@ -1141,8 +1141,8 @@ http://cm-wshls.homecdn.com/8c1.m3u8
 #EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",南京新闻
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",江苏新闻
-http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
 http://www.frankgb.cn:4022/udp/239.49.8.120:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://logo.catvod.com/江苏城市.png" group-title="地方频道",江苏城市
 http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
 http://www.frankgb.cn:4022/udp/239.49.8.107:8000
