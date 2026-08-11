@@ -534,6 +534,7 @@ http://67.220.71.199:2347/livehttpplay?channel_id=12028
 http://r.jdshipin.com/LiYdg
 http://iptv.4666888.xyz/iptv2A.php?id=20
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="体育频道",江苏体育「WXKff」
+http://www.frankgb.cn:4022/udp/239.49.8.117:8000
 http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://logo.catvod.com/天津体育.png" group-title="体育频道",天津体育「WXK」
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
@@ -594,9 +595,14 @@ http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S1」
 http://114.250.19.48:8188/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S2」
+http://111.196.9.111:4022/rtp/239.3.1.250:8001
 http://111.194.1.54:8188/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",超清4K「S2」
+http://111.196.9.111:4022/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",爱上4K「S2」
 http://111.194.1.54:8188/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="IPTV星影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",IPTV星影「S2」
+http://111.196.9.111:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://logo.catvod.com/动作电影.png" group-title="电影频道",NewTV动作电影「China TV」
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://logo.catvod.com/黑莓电影.png" group-title="电影频道",黑莓电影「China TV」
@@ -1142,25 +1148,25 @@ http://cm-wshls.homecdn.com/8c1.m3u8
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",江苏新闻
 http://www.frankgb.cn:4022/udp/239.49.8.120:8000
-http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://logo.catvod.com/江苏城市.png" group-title="地方频道",江苏城市
-http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
 http://www.frankgb.cn:4022/udp/239.49.8.107:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://logo.catvod.com/江苏国际.png" group-title="地方频道",江苏国际
 http://www.lvyjay.win:4022/udp/233.50.202.31:5140
 http://j1900.silicaite.top:58888/rtp/239.49.1.23:6000
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://logo.catvod.com/江苏教育.png" group-title="地方频道",江苏教育
-http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
 http://www.frankgb.cn:4022/udp/239.49.8.122:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://logo.catvod.com/江苏影视.png" group-title="地方频道",江苏影视
-http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
 http://www.frankgb.cn:4022/udp/239.49.8.118:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://logo.catvod.com/江苏综艺.png" group-title="地方频道",江苏综艺
-http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
 http://www.frankgb.cn:4022/udp/239.49.8.108:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://logo.catvod.com/江苏体育.png" group-title="地方频道",江苏体育
-http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 http://www.frankgb.cn:4022/udp/239.49.8.117:8000
+http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://logo.catvod.com/河南新闻.png" group-title="地方频道",河南新闻
 http://1.94.31.214/php/hntv.php?id=hnxw
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://logo.catvod.com/河南都市.png" group-title="地方频道",河南都市
