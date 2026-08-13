@@ -375,17 +375,10 @@ https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",斗地主
-https://live.iill.top/douyu/488743
-https://live.iill.top/bilibili/22021983
-http://cz.crossec.com:35455/douyu/488743
+
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
-https://live.264788.xyz/channel/wuxingtiyu?streamid=6f4b191d0930fafab8274665578e1df8&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
-https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
-https://tcdn.19891230.eu.org/kdf/1605
-https://bp-livewxtytx.bestv.cn/live/wxty.ts
-https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育
-http://115.190.252.60:20508/sports.php?id=jbty
+
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育 移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",CCTV-5 体育☆
 http://122.4.104.104:80/00/SNM/CHANNEL00000360/index.m3u8
@@ -836,7 +829,6 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 http://r.jdshipin.com/nWaZO
 #EXTINF:-1 ,⬆★★★广州频道来自gitee「hw2837」
-
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://logo.catvod.com/浙江新闻.png" group-title="地方频道",浙江新闻
 https://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -877,8 +869,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1 tvg-name="象山综合" tvg-logo="https://logo.catvod.com/杭州综合.png" group-title="地方频道",象山综合「WXK」
 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-#EXTINF:-1 tvg-name="平湖新闻" tvg-logo="https://logo.catvod.com/杭州综合.png" group-title="地方频道",平湖新闻「WXK」
-http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190eec410c24473825cbe1d8541e545-0-f21db57ae1b534802c1cf7be86cc3aef
 #EXTINF:-1 tvg-name="嘉兴新闻" tvg-logo="https://logo.catvod.com/杭州综合.png" group-title="地方频道",嘉兴新闻「WXK」
 http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="海宁新闻" tvg-logo="https://logo.catvod.com/杭州综合.png" group-title="地方频道",海宁新闻「WXK」
@@ -887,18 +877,6 @@ https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=170
 http://zjtv-wshls.homecdn.com/live/2aa50.m3u8#http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 group-title="地方频道",镇江民生「WXK」
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1 group-title="地方频道",镇江3「WXK」
-http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
-#EXTINF:-1 group-title="地方频道",扬州新闻「WXK」
-http://cm-wshls.homecdn.com/8bb.m3u8
-#EXTINF:-1 group-title="地方频道",扬州城市「WXK」
-http://cm-wshls.homecdn.com/8bd.m3u8
-#EXTINF:-1 group-title="地方频道",扬州生活「WXK」
-http://cm-wshls.homecdn.com/8bf.m3u8
-#EXTINF:-1 group-title="地方频道",扬州邗江「WXK」
-http://cm-wshls.homecdn.com/8c3.m3u8
-#EXTINF:-1 group-title="地方频道",扬州江都「WXK」
-http://cm-wshls.homecdn.com/8c1.m3u8
 #EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",南京新闻
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://logo.catvod.com/江苏新闻.png" group-title="地方频道",江苏新闻
