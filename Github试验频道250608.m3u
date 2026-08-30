@@ -828,7 +828,7 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000336/index.m3u8
 http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
 #EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://upload.112114.xyz/logo/sdjy.png" group-title="地方频道",四川乡村「WXK」
 http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
-EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://logo.catvod.com/北京新闻.png" group-title="地方频道",北京新闻「Hotel&S2」
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://logo.catvod.com/北京新闻.png" group-title="地方频道",北京新闻「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.192.226.93:8012/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://logo.catvod.com/北京生活.png" group-title="地方频道",北京生活「Hotel&S2」
