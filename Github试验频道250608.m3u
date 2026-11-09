@@ -55,6 +55,7 @@ http://www.lvyjay.win:4022/udp/233.50.200.185:5140
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经「gitee/kent110」
 http://iptv.zyydzjd.site:4022/rtp/233.18.204.59:5140
+http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
 https://tcdn.19891230.eu.org/kdf/21
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
@@ -645,7 +646,6 @@ https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="上海频道",第一财经「混合」
-https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WeguWNbt9J58PAMJfth2RVGgurCIsTtQqYW
 http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「gitee/kent110」
