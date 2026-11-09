@@ -560,7 +560,7 @@ http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="https://logo.catvod.com/IPTV4K.png" group-title="电影频道",北京IPTV4K超清「zxmlxw520」
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="" tvg-logo="https://logo.catvod.com/.png" group-title="电影频道",「zxmlxw520」
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「zxmlxw520」
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://logo.catvod.com/淘剧场.png" group-title="电影频道",淘剧场「zxmlxw520」
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.95:8001
