@@ -54,10 +54,10 @@ http://www.lvyjay.win:4022/udp/233.50.200.185:5140
 
 
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="新闻财经&央视频道",第一财经「gitee/kent110」
-http://iptv.zyydzjd.site:4022/rtp/233.18.204.59:5140
 http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
 https://tcdn.19891230.eu.org/kdf/21
 https://cdn3.163189.xyz/163189/dycj
+http://iptv.zyydzjd.site:4022/rtp/233.18.204.59:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="新闻财经&央视频道",东方财经
 http://150.138.8.132/PLTV/88888888/224/3221227270/443310048.smil/index.m3u8?fmt=ts2hls
 http://122.4.104.104:80/00/SNM/CHANNEL00002025/index.m3u8
@@ -379,7 +379,7 @@ https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/纬来体育.png" group-title="体育频道",斗地主
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="体育频道",SiTV 五星体育
-http://iptv.zyydzjd.site:4022/rtp/233.18.204.58:5140
+http://demo.medrun.cn:4022/rtp/233.18.204.58:5140
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="体育频道",SiTV 劲爆体育 移动
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="体育频道",CCTV-5 体育☆
@@ -495,27 +495,18 @@ http://150.138.8.143:80/00/SNM/CHANNEL00000361/index.m3u8
 http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 tvg-name="百视通" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="电影频道",百视通「WXK」
 http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「Hotel」
-http://123.118.53.84:45237/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="https://logo.catvod.com/IPTV4K.png" group-title="电影频道",北京IPTV4K超清「zxmlxw520」
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「zxmlxw520」
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数「zxmlxw520」
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-name="IPTV星影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",IPTV星影「zxmlxw520」
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S3」
+http://happy2015.synology.me:4000/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S1」
-http://114.250.19.48:8188/rtp/239.3.1.250:8001
+http://123.122.138.20:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",淘电影「S2」
-http://111.192.226.93:8012/rtp/239.3.1.250:8001
-http://111.194.1.54:8188/rtp/239.3.1.250:8001
+http://111.193.226.243:7089/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",超清4K「S2」
-http://111.192.226.93:8012/rtp/239.3.1.249:8001
+http://111.193.226.243:7089/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",爱上4K「S2」
-http://111.192.226.93:8012/rtp/239.3.1.236:2000
+http://111.193.226.243:7089/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="IPTV星影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",IPTV星影「S2」
-http://111.192.226.93:8012/rtp/239.3.1.94:4120
+http://111.193.226.243:7089/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.iill.top/logo/龙华电影.png" group-title="电影频道",龙华电影
 http://8.fast.hidns.vip/163189/lhdy
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.iill.top/logo/龙华经典.png" group-title="电影频道",龙华经典
@@ -569,7 +560,10 @@ http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.95:8001
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://logo.catvod.com/淘BABY.png" group-title="电影频道",淘BABY「zxmlxw520」
 http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.238:8001
-
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影频道",爱上4K.华数「zxmlxw520」
+http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-name="IPTV星影" tvg-logo="https://logo.catvod.com/淘电影.png" group-title="电影频道",IPTV星影「zxmlxw520」
+http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="潇湘电影" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="电影频道",潇湘电影「WXK」
 http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="电影频道",东方影视「」
@@ -649,13 +643,10 @@ https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/
 http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg-1.iill.top/logo/上海新闻.png" group-title="上海频道",上海新闻综合「gitee/kent110」
-http://iptv.zyydzjd.site:4022/rtp/233.18.204.57:5140
 http://demo.medrun.cn:4022/rtp/233.18.204.57:5140
 https://tcdn.19891230.eu.org/kdf/20
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「China TV&YanG佬」
-https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
-https://tcdn.19891230.eu.org/kdf/1605
-https://bp-livewxtytx.bestv.cn/live/wxty.ts
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「WXK&YanG佬」
+http://demo.medrun.cn:4022/rtp/233.18.204.58:5140
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「ChinaTV」
 http://iptv.zyydzjd.site:4022/rtp/233.18.204.55:5140
@@ -832,22 +823,23 @@ http://122.4.104.104:80/00/SNM/CHANNEL00000331/index.m3u8
 http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://logo.catvod.com/北京新闻.png" group-title="地方频道",北京新闻「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.159:8000
+http://111.193.226.243:7089/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://logo.catvod.com/北京生活.png" group-title="地方频道",北京生活「Hotel&S2」
+http://111.193.226.243:7089/rtp/239.3.1.117:8000
 http://123.118.53.84:45237/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.117:8000
+http://111.193.226.243:7089/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://logo.catvod.com/北京财经.png" group-title="地方频道",北京财经「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.116:8000
+http://111.193.226.243:7089/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://logo.catvod.com/北京文艺.png" group-title="地方频道",北京文艺「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.242:8000
+http://111.193.226.243:7089/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://logo.catvod.com/北京影视.png" group-title="地方频道",北京影视「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.158:8000
+http://111.193.226.243:7089/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://logo.catvod.com/北京体育.png" group-title="地方频道",北京体育休闲「Hotel&S2」
 http://123.118.53.84:45237/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-http://111.192.226.93:8012/rtp/239.3.1.243:8000
+http://111.193.226.243:7089/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://logo.catvod.com/乐山新闻综合.png" group-title="地方频道",乐山新闻综合「huangsuming」
 http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 #EXTINF:-1 tvg-name="乐山文旅生活" tvg-logo="https://logo.catvod.com/乐山文旅生活.png" group-title="地方频道",乐山文旅生活「huangsuming」
