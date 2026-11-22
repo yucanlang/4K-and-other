@@ -10,6 +10,8 @@ http://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil/index.m3u8?fmt=
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="4K频道",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="4K频道",CCTV-16 rtsp
+rtsp://150.138.8.143/PLTV/88888888/224/3221227032/422297679.smil
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="4K频道",山东卫视4K rtsp
 rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="4K频道",江苏卫视4K rtsp
