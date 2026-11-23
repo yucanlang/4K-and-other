@@ -650,12 +650,12 @@ https://tcdn.19891230.eu.org/kdf/20
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="上海频道",五星体育「WXK&YanG佬」
 http://demo.medrun.cn:4022/rtp/233.18.204.58:5140
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「ChinaTV」
-http://iptv.zyydzjd.site:4022/rtp/233.18.204.55:5140
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="上海频道",东方影视「WXK」
+http://demo.medrun.cn:4022/rtp/233.18.204.55:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="上海频道",上海都市「ChinaTV&YanG佬」
-https://live.264788.xyz/channel/shanghaidushi?streamid=04d627efc64630bba0d2507513583a6f&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
-https://tcdn.19891230.eu.org/kdf/18
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场「许幸文」
+http://demo.medrun.cn:4022/rtp/233.18.204.53:5140
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="上海频道",SITV欢笑剧场「WXK&许幸文」
+http://demo.medrun.cn:4022/rtp/233.18.204.50:5140
 http://jasonzhangnas.f3322.net:7088/rtp/233.18.204.50:5140
 #EXTINF:-1 tvg-name="上海新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="上海频道",新纪实「WXK」
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -666,7 +666,7 @@ https://tcdn.19891230.eu.org/kdf/1601
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="上海频道",上海外语
 
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://epg.iill.top/logo/上海教育.png" group-title="上海频道",上海教育「ChinaTV」
-https://live.264788.xyz/channel/shanghaijiaoyu?streamid=b02bea090da12acecb8361a581676210&livekey=01WeguWNbt9J58PAMUl9XSLULsh2DM7Kv6qJl
+http://demo.medrun.cn:4022/rtp/233.18.204.63:5140
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="上海频道",魅力足球「鲁电」
 http://122.4.104.104:80/00/SNM/CHANNEL00002021/index.m3u8
 #EXTINF:-1 tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="上海频道",爱上海
